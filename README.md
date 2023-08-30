@@ -1,5 +1,8 @@
 # thesis
 
-* [google/flan-t5-base](https://huggingface.co/google/flan-t5-base); question answering.
-* [nlpaueb/sec-bert-base](https://huggingface.co/nlpaueb/sec-bert-base); fill-mask
-* [sshleifer/distilbart-cnn-12-6](https://huggingface.co/sshleifer/distilbart-cnn-12-6); summarization
+## literature
+* FinGPT: Open-Source Financial Large Language Models: https://arxiv.org/pdf/2306.06031.pdf
+* FinGPT repository: https://github.com/AI4Finance-Foundation/FinGPT
+* FinNLP repository: https://github.com/AI4Finance-Foundation/FinNLP
+* Financial News Analytics Using Fine-Tuned Llama 2 GPT Model: https://arxiv.org/pdf/2308.13032.pdf
+* Llama 2 Responsible Use Guide: https://ai.meta.com/static-resource/responsible-use-guide/
