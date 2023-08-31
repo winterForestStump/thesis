@@ -8,3 +8,5 @@
 * Llama 2 Responsible Use Guide: https://ai.meta.com/static-resource/responsible-use-guide/
 * BloombergGPT: A Large Language Model for Finance: https://arxiv.org/pdf/2303.17564.pdf
 * The MosaicML MPT-7B: https://www.mosaicml.com/blog/mpt-7b
+* finnhub-python: https://github.com/Finnhub-Stock-API/finnhub-python
+* FlashAttention: https://github.com/Dao-AILab/flash-attention
