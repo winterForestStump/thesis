@@ -10,3 +10,4 @@
 * The MosaicML MPT-7B: https://www.mosaicml.com/blog/mpt-7b
 * finnhub-python: https://github.com/Finnhub-Stock-API/finnhub-python
 * FlashAttention: https://github.com/Dao-AILab/flash-attention
+* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: https://arxiv.org/pdf/2005.11401.pdf
