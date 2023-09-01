@@ -11,3 +11,4 @@
 * finnhub-python: https://github.com/Finnhub-Stock-API/finnhub-python
 * FlashAttention: https://github.com/Dao-AILab/flash-attention
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: https://arxiv.org/pdf/2005.11401.pdf
+* Composer. A PyTorch Library for Efficient Neural Network Training: https://github.com/mosaicml/composer
