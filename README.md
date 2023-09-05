@@ -1,4 +1,44 @@
 # thesis
+Conducting sentiment analysis and risk assessment in 10-K filings using pre-trained language models (LLMs) fr $0
+
+## plan
+1. Data Collection and Preprocessing:
+* Gather a diverse dataset of 10-K filings from various companies and industries from the SEC's EDGAR database.
+* Preprocess the text data: cleaning, tokenizing, and handling issues like punctuation, stop words, and special characters (\n, \t, \xa0).
+
+2. Selecting a Pre-trained LLM:
+* Choose a suitable open-source pre-trained language model: BERT, Llama 2, MPT-7B. 
+
+3. Sentiment Analysis:
+* Annotate a subset of your 10-K filings for sentiment analysis, categorizing sections or sentences as positive, negative, or neutral - this will serve as training data.
+* Fine-tune the LLM on this annotated dataset for sentiment analysis.
+* Evaluate the model's performance using standard metrics like accuracy, precision, recall, F1-score, and possibly domain-specific metrics relevant to sentiment analysis in financial documents.
+
+4. Risk Assessment:
+* Define risk categories or levels that you want to assess within 10-K filings. For example, you might categorize risks as financial, operational, legal, etc.
+* Annotate a subset of your dataset with risk-related sections or sentences and categorize them into the predefined risk categories.
+* Fine-tune the LLM on this annotated dataset for risk assessment.
+* Evaluate the model's ability to accurately categorize sections of 10-K filings into risk categories. Use relevant evaluation metrics, and consider performing a qualitative analysis to understand any false positives or negatives.
+
+5. Interpretability and Visualization:
+* Develop a system to visualize the results of sentiment analysis and risk assessment. You can use techniques like word clouds, topic modeling, or heatmaps to highlight key findings within the 10-K filings.
+
+6. User-Friendly Interface:
+* Create a user-friendly interface (Streamlit?) that allows investors or users to input 10-K filings and receive sentiment and risk assessments in a user-readable format.
+
+7. Evaluation and Testing:
+* Conduct thorough evaluation and testing of system using a test dataset or through a user study.
+* Collect feedback to improve the model's performance and usability.
+
+8. Documentation and Reporting:
+* Document methodology, experiments, results, and any challenges encountered during the research process.
+
+9. Ethical Considerations:
+* Is there possible bias in the data or the model? How it can be addressed?
+
+10. Future Work:
+* Suggest areas for future research or improvements to your model and system.
+
 
 ## literature
 * FinGPT: Open-Source Financial Large Language Models: https://arxiv.org/pdf/2306.06031.pdf
