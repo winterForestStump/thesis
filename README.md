@@ -74,3 +74,6 @@ Enhancing Financial Analysis with Question-Answering Models for $0
 * BloombergGPT: The first Large Language Model for Finance: [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
 * pythonontheplane123/LLM_course_part_1: https://github.com/pythonontheplane123/LLM_course_part_1
 * HuggingFaceDatasetLoader: https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/document_loaders/hugging_face_dataset.py
+* Self-Instruct: Aligning LM with Self Generated Instructions: https://github.com/yizhongw/self-instruct
+* Alpaca: A Strong, Replicable Instruction-Following Model: https://crfm.stanford.edu/2023/03/13/alpaca.html
+* An intro to ROUGE, and how to use it to evaluate summaries: https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/#:~:text=For%20example%2C%20ROUGE%2D1%20refers,2%20precision%20and%20recall%20scores
