@@ -1,46 +1,63 @@
 # thesis
-Conducting sentiment analysis and risk assessment in 10-K filings using pre-trained language models (LLMs) fr $0
-
-## plan
-1. Data Collection and Preprocessing:
-* Gather a diverse dataset of 10-K filings from various companies and industries from the SEC's EDGAR database.
-* Preprocess the text data: cleaning, tokenizing, and handling issues like punctuation, stop words, and special characters (\n, \t, \xa0).
-
-2. Selecting a Pre-trained LLM:
-* Choose a suitable open-source pre-trained language model: BERT, Llama 2, MPT-7B. 
-
-3. Sentiment Analysis:
-* Annotate a subset of your 10-K filings for sentiment analysis, categorizing sections or sentences as positive, negative, or neutral - this will serve as training data.
-* Fine-tune the LLM on this annotated dataset for sentiment analysis.
-* Evaluate the model's performance using standard metrics like accuracy, precision, recall, F1-score, and possibly domain-specific metrics relevant to sentiment analysis in financial documents.
-
-4. Risk Assessment:
-* Define risk categories or levels that you want to assess within 10-K filings. For example, you might categorize risks as financial, operational, legal, etc.
-* Annotate a subset of your dataset with risk-related sections or sentences and categorize them into the predefined risk categories.
-* Fine-tune the LLM on this annotated dataset for risk assessment.
-* Evaluate the model's ability to accurately categorize sections of 10-K filings into risk categories. Use relevant evaluation metrics, and consider performing a qualitative analysis to understand any false positives or negatives.
-
-5. Interpretability and Visualization:
-* Develop a system to visualize the results of sentiment analysis and risk assessment. You can use techniques like word clouds, topic modeling, or heatmaps to highlight key findings within the 10-K filings.
-
-6. User-Friendly Interface:
-* Create a user-friendly interface (Streamlit?) that allows investors or users to input 10-K filings and receive sentiment and risk assessments in a user-readable format.
-
-7. Evaluation and Testing:
-* Conduct thorough evaluation and testing of system using a test dataset or through a user study.
-* Collect feedback to improve the model's performance and usability.
-
-8. Documentation and Reporting:
-* Document methodology, experiments, results, and any challenges encountered during the research process.
-
-9. Ethical Considerations:
-* Is there possible bias in the data or the model? How it can be addressed?
-
-10. Future Work:
-* Suggest areas for future research or improvements to your model and system.
+Enhancing Financial Analysis with Question-Answering Models for $0
 
 
-## literature
+# plan
+1. Introduction:
+* the field of financial analysis and the importance of textual data in financial documents like annual reports (10-K filings).
+* the research problem 'How can question-answering models be used to enhance financial analysis?', provide an overview of your approach and mention the significance of your research:
+
+  ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
+
+2. Literature Review:
+* Review existing literature on financial analysis, natural language processing (NLP), and question-answering models.
+* Highlight relevant studies on sentiment analysis, risk assessment, and financial metrics extraction from textual data.
+* Identify gaps in the literature that your research aims to address.
+
+3. Data Collection and Preprocessing:
+* Describe the process of dataset collection of 10-K filings. Mention any preprocessing steps applied.
+
+4. Question-Answering Model Selection:
+* Choose an open-source question-answering model: Llama 2, GPT-3, MPT-7B.
+* Explain why you chose the model (strengths and potential limitations).
+
+5. Model Training:
+* Describe fine-tuning process
+* Explain any modifications or adaptations made to the model architecture or training process to fit the financial analysis context.
+
+6. Experimental Setup:
+* Detail the experimental setup (dividing the dataset into training, validation, and test sets)
+* Specify evaluation metrics relevant to financial analysis (accuracy, precision, recall, F1-score, or domain-specific metrics).
+
+7. Results and Analysis:
+* Present the results, showing how the question-answering model performed in various financial analysis tasks.
+* Visualizations and examples to illustrate the model's performance.
+* Analyze the strengths and weaknesses of the model, discussing any challenges encountered.
+
+8. Applications and Use Cases:
+* Practical applications of your question-answering model in enhancing financial analysis.
+* Real-world scenarios or use cases where the model can be valuable for investors, analysts, or financial professionals.
+
+9. Comparison with Existing Methods:
+* Compare the performance of the model with existing methods or benchmarks in financial analysis.
+* Highlight the advantages of the approach, if any.
+
+10. Interpretability and Visualization:
+* Explain how the model's outputs interpretable and user-friendly for financial analysts.
+* Visualizations or dashboards that convey financial insights.
+
+11. Ethical Considerations:
+* Ethical considerations related to the use of AI in financial analysis, such as bias, fairness, and transparency.
+
+12. Conclusion and Future Work:
+* Summarization of findings and the contributions of your research.
+* Avenues for future research or improvements to question-answering models for financial analysis.
+
+13. References:
+* Citation of all the sources and references used in the thesis.
+
+
+# literature
 * FinGPT: Open-Source Financial Large Language Models: https://arxiv.org/pdf/2306.06031.pdf
 * FinGPT repository: https://github.com/AI4Finance-Foundation/FinGPT
 * FinNLP repository: https://github.com/AI4Finance-Foundation/FinNLP
