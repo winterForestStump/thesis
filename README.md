@@ -77,6 +77,7 @@ Enhancing Financial Analysis with Question-Answering Models for $0
 * Self-Instruct: Aligning LM with Self Generated Instructions: https://github.com/yizhongw/self-instruct
 * Alpaca: A Strong, Replicable Instruction-Following Model: https://crfm.stanford.edu/2023/03/13/alpaca.html
 * An intro to ROUGE, and how to use it to evaluate summaries: https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/#:~:text=For%20example%2C%20ROUGE%2D1%20refers,2%20precision%20and%20recall%20scores
+* https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/
 
 
 # dataset
