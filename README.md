@@ -78,7 +78,7 @@ Enhancing Financial Analysis with Question-Answering Models for $0
 * Alpaca: A Strong, Replicable Instruction-Following Model: https://crfm.stanford.edu/2023/03/13/alpaca.html
 * An intro to ROUGE, and how to use it to evaluate summaries: https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/#:~:text=For%20example%2C%20ROUGE%2D1%20refers,2%20precision%20and%20recall%20scores
 * https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/
-
+* https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
 
 # dataset
 [winterForestStump/10-K_sec_filings](https://huggingface.co/datasets/winterForestStump/10-K_sec_filings)
