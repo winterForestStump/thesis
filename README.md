@@ -1,5 +1,8 @@
 # thesis
-Enhancing Financial Analysis with Question-Answering Models for $0
+Enhancing Financial Analysis with Question-Answering Models for $0. The idea is:
+* use open-sourse LLM (ROBERTA, LLAMA or others)
+* use 10k SEC filings as context
+* create an app for QA and summorization(?)
 
 
 # plan
