@@ -8,7 +8,7 @@ Enhancing Financial Analysis with Question-Answering Models (for $0). The idea i
 * optinal: create an app for QA
 
 
-## plan
+### plan
 1. Introduction:
   ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
 
@@ -42,7 +42,7 @@ Enhancing Financial Analysis with Question-Answering Models (for $0). The idea i
 * Summarization of findings and the contributions. Future research or improvements to QA models for financial analysis.
 
 
-## literature
+### literature
 * FinGPT: Open-Source Financial Large Language Models: https://arxiv.org/pdf/2306.06031.pdf
 * FinGPT repository: https://github.com/AI4Finance-Foundation/FinGPT
 * FinNLP repository: https://github.com/AI4Finance-Foundation/FinNLP
@@ -65,5 +65,5 @@ Enhancing Financial Analysis with Question-Answering Models (for $0). The idea i
 * https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/
 * https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
 
-## dataset
-[data]
+### dataset
+[data](data)
