@@ -9,32 +9,23 @@ Enhancing Financial Analysis with Question-Answering Models (for $0). The idea i
 
 
 ### plan
-1. Introduction:
-  ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
+1. Introduction: ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
 
-2. Literature Review:
-* Review existing literature on financial analysis, natural language processing (NLP), and question-answering models.
+2. Literature Review (natural language processing (NLP) and question-answering models) 
 
-3. Data Collection and Preprocessing:
-* Describe the process of dataset collection of 10-K filings and QA dataset creation (question, context, answer). Randomly select 100 filings
+3. Data Collection and Preprocessing (the process of dataset collection and QA dataset creation of 10-K filings; select randomly 100 filings to create question, context, answerdictionaries)
 
-4. Question-Answering Model Selection:
-* Choose an open-source question-answering model: BERT / Llama 2 / others
+4. Question-Answering Model Selection (open-source question-answering model: BERT / Llama 2 / others)
 
-5. Model Training:
-* Describe fine-tuning process. Modifications or adaptations made to the model architecture or training process to fit the financial analysis context.
+5. Model Training. (fine-tuning process, modifications or adaptations made to the model architecture or training process to fit the financial analysis context)
 
-6. Experimental Setup:
-* Specify evaluation metrics: Exact match and F1 score.
+6. Evaluation (metrics: Exact match and F1 score)
 
-7. Results and Analysis:
-* Present the results, showing how the question-answering model performed. Visualizations. Analyze the strengths, weaknesses and challenges of the model
+7. Results and Analysis (present the results, visualizations, strengths/weaknesses/challenges of the model)
 
-8. Applications and Use Cases:
-* Practical applications of QA model in enhancing financial analysis. Real-world scenarios or use cases for investors, analysts, or financial (un)professionals
+8. Applications and Use Cases (practical applications of QA model/ real-world scenarios or use cases for investors, analysts, or financial (un)professionals)
 
-9. Conclusion and Future Work:
-* Summarization of findings and the contributions. Future research or improvements to QA models for financial analysis.
+9. Conclusion and Future Work (summarization of findings and the contributions/ future research or improvements to QA models for financial analysis)
 
 
 ### literature
