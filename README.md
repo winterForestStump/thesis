@@ -1,5 +1,5 @@
 # thesis
-Enhancing Financial Analysis with Question-Answering Models (for $0). The idea is:
+Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The idea is:
 * use open-sourse LLM: BERT (distilbert-base-uncased)
 * use 10k SEC filings as text corpus -> out of 184K filings randomly pick 50-100
 * creating a dataset with context, questions and answers
