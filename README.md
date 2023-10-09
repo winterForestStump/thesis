@@ -1,8 +1,8 @@
 # thesis
 Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The idea is:
 * use open-sourse LLM: BERT (distilbert-base-uncased)
-* use 10k SEC filings as text corpus -> out of 184K filings randomly pick 50-100
-* creating a dataset with context, questions and answers
+* use 10k SEC filings as text corpus -> out of 184K filings randomly pick 50-100 -> creating a dataset with context, questions and answers structured the same way as [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
+* try effective RAG strategies or comparing RAG results to fine tuning
 * train and test the model: exaact match and F1 score metrics (SQuAD v2 benchmark)
 * test the model
 * optinal: create an app for QA
@@ -29,27 +29,13 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 
 
 ### literature
-* FinGPT: Open-Source Financial Large Language Models: https://arxiv.org/pdf/2306.06031.pdf
-* FinGPT repository: https://github.com/AI4Finance-Foundation/FinGPT
-* FinNLP repository: https://github.com/AI4Finance-Foundation/FinNLP
-* Financial News Analytics Using Fine-Tuned Llama 2 GPT Model: https://arxiv.org/pdf/2308.13032.pdf
-* Llama 2 Responsible Use Guide: https://ai.meta.com/static-resource/responsible-use-guide/
-* BloombergGPT: A Large Language Model for Finance: https://arxiv.org/pdf/2303.17564.pdf
-* The MosaicML MPT-7B: https://www.mosaicml.com/blog/mpt-7b
-* finnhub-python: https://github.com/Finnhub-Stock-API/finnhub-python
-* FlashAttention: https://github.com/Dao-AILab/flash-attention
-* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: https://arxiv.org/pdf/2005.11401.pdf
-* Composer. A PyTorch Library for Efficient Neural Network Training: https://github.com/mosaicml/composer
-* GLM-130B: An Open Bilingual Pre-Trained Model: http://keg.cs.tsinghua.edu.cn/glm-130b/posts/glm-130b/
-* BloombergGPT aims to be a domain-specific AI for business news: [news article](https://www.niemanlab.org/2023/04/what-if-chatgpt-was-trained-on-decades-of-financial-news-and-data-bloomberggpt-aims-to-be-a-domain-specific-ai-for-business-news/)
-* BloombergGPT: The first Large Language Model for Finance: [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
-* pythonontheplane123/LLM_course_part_1: https://github.com/pythonontheplane123/LLM_course_part_1
-* HuggingFaceDatasetLoader: https://github.com/langchain-ai/langchain/blob/master/libs/langchain/langchain/document_loaders/hugging_face_dataset.py
-* Self-Instruct: Aligning LM with Self Generated Instructions: https://github.com/yizhongw/self-instruct
-* Alpaca: A Strong, Replicable Instruction-Following Model: https://crfm.stanford.edu/2023/03/13/alpaca.html
-* An intro to ROUGE, and how to use it to evaluate summaries: https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/#:~:text=For%20example%2C%20ROUGE%2D1%20refers,2%20precision%20and%20recall%20scores
-* https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/augmented-language-models/
-* https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed
+* FinGPT model: [GitHub repository](https://github.com/AI4Finance-Foundation/FinGPT), [fine-tuning](https://byfintech.medium.com/beginners-guide-to-fingpt-training-with-lora-chatglm2-6b-9eb5ace7fe99)
+* BloombergGPT. The first Large Language Model for Finance: [paper](https://arxiv.org/pdf/2303.17564.pdf), [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
+* The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b)
+* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
+* Self-Instruct: Aligning LM with Self Generated Instructions: [Github repo](https://github.com/yizhongw/self-instruct)
+* [LangChain for QA](https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed)
+* HuggingFace. Fine-tuning a model on a question-answering task: [Notebook1](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb), [Notebook2](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb)
 
 ### dataset
 [data](data)
