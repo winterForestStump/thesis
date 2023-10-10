@@ -1,7 +1,7 @@
 # thesis
 Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The idea is:
 * use open-sourse LLM: BERT (distilbert-base-uncased)
-* use 10k SEC filings as text corpus -> out of 184K filings randomly pick 50-100 -> creating a dataset with context, questions and answers structured the same way as [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
+* use 10k SEC filings (184K) as text corpus -> creating a dataset with context, questions and answers structured the same way as [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
 * try effective RAG strategies or comparing RAG results to fine tuning
 * train and test the model: exaact match and F1 score metrics (SQuAD v2 benchmark)
 * test the model
