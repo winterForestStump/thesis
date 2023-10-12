@@ -31,7 +31,6 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 ### literature
 * FinGPT model: [GitHub repository](https://github.com/AI4Finance-Foundation/FinGPT), [fine-tuning](https://byfintech.medium.com/beginners-guide-to-fingpt-training-with-lora-chatglm2-6b-9eb5ace7fe99)
 * BloombergGPT. The first Large Language Model for Finance: [paper](https://arxiv.org/pdf/2303.17564.pdf), [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
-* The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b)
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
 * Self-Instruct: Aligning LM with Self Generated Instructions: [Github repo](https://github.com/yizhongw/self-instruct)
 * [LangChain for QA](https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed)
@@ -39,3 +38,6 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 
 ### dataset
 [data](data)
+
+### remarks
+* Models like The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b) or [Llama2 7B](https://ai.meta.com/llama/) are too large to run on Google Colab free account even though they are the smallest in their respective families. With a free colab account, 12Gb RAM memory is available. Estimation of the RAM required for 7B parameters model: model parameters 28 Gb, model overhead 3-6 Gb, I/O buffers 1-2 Gb, OS/Framework overhead 2-4 Gb, In total - 34-40 Gb.
