@@ -1,6 +1,6 @@
 # thesis
 Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The idea is:
-* use open-sourse LLM: BERT (distilbert-base-uncased)
+* use open-sourse LLM: BERT (distilbert-base-uncased) or LLaMA 2 
 * use 10k SEC filings (184K) as text corpus -> creating a dataset with context, questions and answers structured the same way as [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
 * try effective RAG strategies or comparing RAG results to fine tuning
 * train and test the model: exaact match and F1 score metrics (SQuAD v2 benchmark)
@@ -35,9 +35,12 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 * Self-Instruct: Aligning LM with Self Generated Instructions: [Github repo](https://github.com/yizhongw/self-instruct)
 * [LangChain for QA](https://medium.com/@onkarmishra/using-langchain-for-question-answering-on-own-data-3af0a82789ed)
 * HuggingFace. Fine-tuning a model on a question-answering task: [Notebook1](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb), [Notebook2](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb)
+* [Anyscale. Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
+* [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 
 ### dataset
 [data](data)
 
 ### remarks
 * Models like The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b) or [Llama2 7B](https://ai.meta.com/llama/) are too large to run on Google Colab free account even though they are the smallest in their respective families. With a free colab account, 12Gb RAM memory is available. Estimation of the RAM required for 7B parameters model: model parameters 28 Gb, model overhead 3-6 Gb, I/O buffers 1-2 Gb, OS/Framework overhead 2-4 Gb, In total - 34-40 Gb.
+* [llama.cpp](https://github.com/ggerganov/llama.cpp) is a plain C/C++ implementation of LLaMA model using 4-bit integer quantization. [TheBloke/Llama-2-13B-chat-GGUF](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF) model with 13B parameters requires 11.73 Gb maximum
