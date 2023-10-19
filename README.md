@@ -37,6 +37,7 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 * HuggingFace. Fine-tuning a model on a question-answering task: [Notebook1](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb), [Notebook2](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb)
 * [Anyscale. Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
+* [Why You (Probably) Don’t Need to Fine-tune an LLM](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/?ref=hackernoon.com)
 
 ### dataset
 [data](data)
