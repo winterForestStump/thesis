@@ -1,14 +1,12 @@
 # thesis
-Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The idea is:
-* use open-sourse LLM: BERT (distilbert-base-uncased) or LLaMA 2 
-* use 10k SEC filings (184K) as text corpus -> creating a dataset with context, questions and answers structured the same way as [SQuAD dataset](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Economic_inequality.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
-* try effective RAG strategies or comparing RAG results to fine tuning
-* train and test the model: exaact match and F1 score metrics (SQuAD v2 benchmark)
-* test the model
-* optinal: create an app for QA
+* What is the goal? - To enhance financial analysis of public companies filings with with $0 costs. 
+* Decide on the evaluation criteria -
+* Choose a model - open-source LLaMA 2
+* Develop the right data mix - use 10K SEC filings
+* Efficient fine-tuning or RAG
 
 
-### plan
+### plan of the paper
 1. Introduction: ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
 
 2. Literature Review (natural language processing (NLP) and question-answering models) 
@@ -29,6 +27,8 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 
 
 ### literature
+* [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+* [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
 * FinGPT model: [GitHub repository](https://github.com/AI4Finance-Foundation/FinGPT), [fine-tuning](https://byfintech.medium.com/beginners-guide-to-fingpt-training-with-lora-chatglm2-6b-9eb5ace7fe99)
 * BloombergGPT. The first Large Language Model for Finance: [paper](https://arxiv.org/pdf/2303.17564.pdf), [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
@@ -39,6 +39,7 @@ Enhancing Financial Analysis with Question-Answering Models (with $0 costs). The
 * [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 * [Anyscale. Using LoRa for fine-tuning Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2?ref=hackernoon.com)
 * [Why You (Probably) Don’t Need to Fine-tune an LLM](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/?ref=hackernoon.com)
+
 
 ### dataset
 [data](data)
