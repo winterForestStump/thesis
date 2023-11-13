@@ -17,7 +17,7 @@
 
 5. Model Training. (fine-tuning process, modifications or adaptations made to the model architecture or training process to fit the financial analysis context)
 
-6. Evaluation (metrics: Exact match and F1 score)
+6. Evaluation metrics: Exact match. Create a set of questions (prompts) and answers for them, retrieved from the documents. Calculate the exact match between the model resultsa and true values
 
 7. Results and Analysis (present the results, visualizations, strengths/weaknesses/challenges of the model)
 
