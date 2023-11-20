@@ -28,6 +28,7 @@
 
 ### literature
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: [paper](https://arxiv.org/pdf/2005.11401.pdf)
+* [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/pdf/2310.11511.pdf)
 * [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 * [Holistic Evaluation of Language Models](https://arxiv.org/abs/2211.09110)
 * [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
