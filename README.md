@@ -54,6 +54,7 @@
 2. [Yukang/Llama-2-7b-longlora-100k-ft](https://huggingface.co/Yukang/Llama-2-7b-longlora-100k-ft), [github](https://osu-nlp-group.github.io/TableLlama/), [github](https://github.com/dvlab-research/LongLoRA)
 3. [ChromaDB](https://github.com/chroma-core/chroma)
 4. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
+5. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
 
 ### remarks
 * Models like The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b) or [Llama2 7B](https://ai.meta.com/llama/) are too large to run on Google Colab free account even though they are the smallest in their respective families. With a free colab account, 12Gb RAM memory is available. Estimation of the RAM required for 7B parameters model: model parameters 28 Gb, model overhead 3-6 Gb, I/O buffers 1-2 Gb, OS/Framework overhead 2-4 Gb, In total - 34-40 Gb.
