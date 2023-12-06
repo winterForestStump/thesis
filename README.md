@@ -40,12 +40,13 @@
 3. [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
 
 ### models / frameworks / databases
-1. [TheBloke/Llama-2-13B-chat-GGUF](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)
-2. [Yukang/Llama-2-7b-longlora-100k-ft](https://huggingface.co/Yukang/Llama-2-7b-longlora-100k-ft), [github](https://osu-nlp-group.github.io/TableLlama/), [github](https://github.com/dvlab-research/LongLoRA)
-3. [ChromaDB](https://github.com/chroma-core/chroma)
-4. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
-5. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
-6. [Self-RAG](https://github.com/AkariAsai/self-rag)
+1. [TheBloke/Llama-2-13B-chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)
+2. [Yukang/Llama-2-7b-longlora-100k-ft model](https://huggingface.co/Yukang/Llama-2-7b-longlora-100k-ft), [github](https://osu-nlp-group.github.io/TableLlama/), [github](https://github.com/dvlab-research/LongLoRA)
+3. [FinGPT model](https://github.com/AI4Finance-Foundation/FinGPT), [FinGPT/fingpt-mt_llama2-7b_lora on Hugging Face](https://huggingface.co/FinGPT/fingpt-mt_llama2-7b_lora)
+4. [ChromaDB](https://github.com/chroma-core/chroma)
+5. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
+6. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
+7. [Self-RAG](https://github.com/AkariAsai/self-rag)
 
 ### evaluation
 1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
