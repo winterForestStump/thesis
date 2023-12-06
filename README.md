@@ -50,6 +50,9 @@
 4. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
 5. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
 
+### evaluation
+1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
+
 ### remarks
 * Models like The MosaicML MPT-7B [model](https://www.mosaicml.com/blog/mpt-7b) or [Llama2 7B](https://ai.meta.com/llama/) are too large to run on Google Colab free account even though they are the smallest in their respective families. With a free colab account, 12Gb RAM memory is available. Estimation of the RAM required for 7B parameters model: model parameters 28 Gb, model overhead 3-6 Gb, I/O buffers 1-2 Gb, OS/Framework overhead 2-4 Gb, In total - 34-40 Gb.
 * [llama.cpp](https://github.com/ggerganov/llama.cpp) is a plain C/C++ implementation of LLaMA model using 4-bit integer quantization. [TheBloke/Llama-2-13B-chat-GGUF](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF) model with 13B parameters requires 11.73 Gb maximum
