@@ -49,6 +49,7 @@
 3. [ChromaDB](https://github.com/chroma-core/chroma)
 4. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
 5. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
+6. [Self-RAG](https://github.com/AkariAsai/self-rag)
 
 ### evaluation
 1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
