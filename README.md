@@ -27,10 +27,6 @@
 
 
 ### literature
-* FinGPT model: [GitHub repository](https://github.com/AI4Finance-Foundation/FinGPT), [fine-tuning](https://byfintech.medium.com/beginners-guide-to-fingpt-training-with-lora-chatglm2-6b-9eb5ace7fe99)
-* BloombergGPT. The first Large Language Model for Finance: [paper](https://arxiv.org/pdf/2303.17564.pdf), [Medium articlle](https://medium.com/codex/bloomberggpt-the-first-large-language-model-for-finance-61cc92075075)
-* Self-Instruct: Aligning LM with Self Generated Instructions: [Github repo](https://github.com/yizhongw/self-instruct)
-* HuggingFace. Fine-tuning a model on a question-answering task: [Notebook1](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb), [Notebook2](https://github.com/huggingface/notebooks/blob/main/examples/question_answering.ipynb)
 * [Anyscale. Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 * [Anyscale. Using LoRa for fine-tuning Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2?ref=hackernoon.com)
