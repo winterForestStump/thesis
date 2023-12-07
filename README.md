@@ -47,6 +47,7 @@
 5. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
 6. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
 7. [Self-RAG](https://github.com/AkariAsai/self-rag)
+8. [Pyserini toolkit](https://github.com/castorini/pyserini), for reproducible information retrieval research with sparse and dense representations
 
 ### evaluation
 1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
