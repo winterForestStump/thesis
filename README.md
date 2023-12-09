@@ -26,18 +26,21 @@
 9. Conclusion and Future Work (summarization of findings and the contributions/ future research or improvements to QA models for financial analysis)
 
 
-### literature
+### additional literature
 * [Anyscale. Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 * [Anyscale. Using LoRa for fine-tuning Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2?ref=hackernoon.com)
 * [Why You (Probably) Don’t Need to Fine-tune an LLM](https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/?ref=hackernoon.com)
 
 
-
 ### dataset
 1. [scraped 10-k filings, extracted by my own](data). Plain text, refine is needed
 2. [EDGAR-CORPUS](https://zenodo.org/records/5528490). Annual reports from 1993 to 2020 splited into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. [Link to HF dataset](https://huggingface.co/datasets/eloukas/edgar-corpus) and [edgar-crawler github repository](https://github.com/nlpaueb/edgar-crawler)
 3. [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
+
+
+### questions
+We have prepared a list of [42 questions](questions.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
 
 ### models / frameworks / databases
 1. [TheBloke/Llama-2-13B-chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)
