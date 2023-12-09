@@ -1,29 +1,34 @@
 # thesis
-* What is the goal? - To enhance financial analysis of public companies filings with with $0 costs. 
-* Decide on the evaluation criteria -
-* Choose a model - open-source LLaMA 2
-* Develop the right data mix - use 10K SEC filings
-* Efficient fine-tuning or RAG
+Reading and Understanding Annual Reports (SEC 10-K Filings) using LLM and RAG Method
 
 
-### plan of the paper
-1. Introduction: ""The research problem addressed in this thesis is to investigate the practical implementation and efficacy of question-answering models in enhancing traditional financial analysis methods. Specifically, this study aims to explore how advanced natural language processing techniques, including question-answering models, can be leveraged to extract meaningful insights, sentiment, and critical information from textual data within financial documents such as annual reports (10-K filings) to empower investors, analysts, and financial professionals in making more informed decisions and assessments.""
-
-2. Literature Review (natural language processing (NLP) and question-answering models) 
-
-3. Data Collection and Preprocessing (the process of dataset collection and QA dataset creation of 10-K filings; select randomly 100 filings to create question, context, answerdictionaries)
-
-4. Question-Answering Model Selection (open-source question-answering model: BERT / Llama 2 / others)
-
-5. Model Training. (fine-tuning process, modifications or adaptations made to the model architecture or training process to fit the financial analysis context)
-
-6. Evaluation metrics: Exact match. Create a set of questions (prompts) and answers for them, retrieved from the documents. Calculate the exact match between the model resultsa and true values
-
-7. Results and Analysis (present the results, visualizations, strengths/weaknesses/challenges of the model)
-
-8. Applications and Use Cases (practical applications of QA model/ real-world scenarios or use cases for investors, analysts, or financial (un)professionals)
-
-9. Conclusion and Future Work (summarization of findings and the contributions/ future research or improvements to QA models for financial analysis)
+### Master's Thesis Plan
+- Introduction
+ -- Background: Overview of the importance of annual reports and SEC 10-K filings in financial decision-making. Challenges associated with analyzing 10-K reports, emphasizing length and complexity. Introduction to the proposed method using LLMs and Retrieval-Augmented Generation (RAG).
+ -- Objectives: Detailing the goal of the thesis, which is to develop a method for easy reading and understanding of financial annual reports. Emphasizing the use of open-source LLMs and the advantages it offers over relying on APIs.
+ -- Scope and Significance: Discussing the scope of the research and its potential impact on democratizing access to financial information. Highlighting the significance of the proposed system in improving accessibility and understanding of financial reports.
+- Literature Review
+ -- Financial Reporting and SEC Filings: Explanation of the Securities and Exchange Act and the importance of periodic financial reports. Challenges in processing 10-K filings, including the use of neural networks for section recognition.
+ -- Data Collection: Overview of the SEC's EDGAR database and challenges in retrieving 10-K filings. Introduction to potential solutions, including the use of Financial Modeling Prep.
+ -- Related Literature: Reviewing relevant literature on the use of language models (LLMs) in financial analysis. Highlighting previous work on fine-tuning BERT for measuring regulatory barriers and stock price performance prediction.
+- System Design
+ -- Components of the System: Detailing the components, including report materials, reader's questions, and the core system using LLMs and RAG. Emphasizing the choice of LLaMA-2-13B and potential experimentation with other models.
+ -- Implementation Steps: Step-by-step explanation of the implementation process, covering embedding, vector storage, similarity-based retrieval, and RAG.
+- Experimental Setup
+ -- Discussion on the various methods for obtaining 10-K filings, including the use of the EDGAR-CORPUS dataset and scraping EDGAR website. Explanation of the chosen method for the experimental phase.
+ -- Detailing the list of 42 questions prepared for the natural language queries.
+ -- Explanation of the system setup, including the use of a locally running open-source LLM.
+- Evaluation
+ -- Discussion on commonly used evaluation metrics such as Precision, Recall, F1 Score, Mean Average Precision, and AUC-ROC. Emphasizing challenges in aligning evaluation metrics with practical use cases.
+ -- Explanation of the limitations associated with using Colab VMs for experiments. Acknowledgment of potential challenges in resource availability and fluctuations.
+- Results and Analysis
+ -- Showcase of results obtained from the experimental phase, including the performance of the LLM and RAG system.
+ -- Interpretation of results in the context of the proposed method's effectiveness. Discussion on potential improvements and areas for future research.
+- Conclusion
+ -- Summarizing key findings from the research, including the effectiveness of the proposed method.
+ -- Highlighting the contributions of the thesis to the field of financial analysis and AI-enabled tutoring systems.
+ -- Identifying potential avenues for future research and enhancements to the proposed system.
+ -- Concluding the thesis with a recap of the objectives, findings, and overall significance of the research.
 
 
 ### additional literature
