@@ -6,7 +6,7 @@
 
 ## Examples
 - [HTML 10-K filing representation](https://www.sec.gov/Archives/edgar/data/1008586/000095015207003118/l25295ae10vk.htm). This is the most conviniet format for people to read reports
-- [TXT represenattion](data/txt_example.txt). This format will be used while embedding.
+- [TXT represenattion]([data/txt_example.txt](https://raw.githubusercontent.com/winterForestStump/thesis/main/data/txt_example.txt)). This format will be used while embedding.
 
 
 ## About 10-K SEC filings
