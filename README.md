@@ -52,6 +52,7 @@ We have prepared a list of [42 questions](questions.txt) that are most commonly 
 7. [Self-RAG](https://github.com/AkariAsai/self-rag)
 8. [Pyserini toolkit](https://github.com/castorini/pyserini), for reproducible information retrieval research with sparse and dense representations
 9. [Fine-Tuning Embedding for RAG with Synthetic Data](https://github.com/run-llama/finetune-embedding/tree/main?tab=readme-ov-file)
+10. [argilla.io: Open-source Fine-tuning Data Platform for LLMs](https://argilla.io/)
 
 ### evaluation
 Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
