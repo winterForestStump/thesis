@@ -38,6 +38,9 @@ Reading and Understanding Annual Reports (SEC 10-K Filings) using LLM and RAG Me
 2. [EDGAR-CORPUS](https://zenodo.org/records/5528490). Annual reports from 1993 to 2020 splited into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. [Link to HF dataset](https://huggingface.co/datasets/eloukas/edgar-corpus) and [edgar-crawler github repository](https://github.com/nlpaueb/edgar-crawler)
 3. [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
 
+### embeddings
+1. General Text Embeddings (GTE) model **gte-large**. The GTE models are trained by Alibaba DAMO Academy. They are mainly based on the BERT framework and currently offer three different sizes of models, including GTE-large, GTE-base, and GTE-small. The GTE models are trained on a large-scale corpus of relevance text pairs, covering a wide range of domains and scenarios. The model achieves impressive results by effectively harnessing multi-stage contrastive learning, offering a powerful and efficient text embedding model with broad applicability across various NLP and code-related tasks including information retrieval, semantic textual similarity, text reranking, etc. [Towards General Text Embeddings with Multi-stage Contrastive Learning paper](https://arxiv.org/pdf/2308.03281.pdf) and [thenlper/gte-large model on HuggingFace](https://huggingface.co/thenlper/gte-large)
+
 
 ### questions
 We have prepared a list of [42 questions](questions.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
