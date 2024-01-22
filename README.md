@@ -32,15 +32,13 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
   + Identifying potential avenues for future research and enhancements to the proposed system.
   + Concluding the thesis with a recap of the objectives, findings, and overall significance of the research.
 
-### board
+### experiments board
 [Experiments Board](https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8)
-
 
 ### datasets
 1. [scraped 10-k filings, extracted by my own](data). Plain text, refine is needed. The same dataset on [Hugging Face Hub](https://huggingface.co/datasets/winterForestStump/10k_SEC_10examples_text_corpus)
 2. [EDGAR-CORPUS](https://zenodo.org/records/5528490). Annual reports from 1993 to 2020 splited into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. [Link to HF dataset](https://huggingface.co/datasets/eloukas/edgar-corpus) and [edgar-crawler github repository](https://github.com/nlpaueb/edgar-crawler)
 3. [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
-
 
 ### questions
 We have prepared a list of [42 questions](questions.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
@@ -56,6 +54,7 @@ We have prepared a list of [42 questions](questions.txt) that are most commonly 
 8. [Pyserini toolkit](https://github.com/castorini/pyserini), for reproducible information retrieval research with sparse and dense representations
 9. [Fine-Tuning Embedding for RAG with Synthetic Data](https://github.com/run-llama/finetune-embedding/tree/main?tab=readme-ov-file)
 10. [argilla.io: Open-source Fine-tuning Data Platform for LLMs](https://argilla.io/)
+11. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 ### evaluation
 Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
