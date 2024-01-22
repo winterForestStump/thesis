@@ -32,6 +32,9 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
   + Identifying potential avenues for future research and enhancements to the proposed system.
   + Concluding the thesis with a recap of the objectives, findings, and overall significance of the research.
 
+### board
+(Experiments Board)[https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8]
+
 
 ### datasets
 1. [scraped 10-k filings, extracted by my own](data). Plain text, refine is needed. The same dataset on [Hugging Face Hub](https://huggingface.co/datasets/winterForestStump/10k_SEC_10examples_text_corpus)
