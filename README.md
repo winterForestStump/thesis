@@ -33,7 +33,7 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
   + Concluding the thesis with a recap of the objectives, findings, and overall significance of the research.
 
 ### board
-(Experiments Board)[https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8]
+[Experiments Board](https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8)
 
 
 ### datasets
