@@ -7,3 +7,13 @@ Architecture:
 * [ChromaDB](https://python.langchain.com/docs/integrations/vectorstores/chroma) as a vector store,
 * [RetrievalQA](https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html) with k=8 documents,
 * [TheBloke/Llama-2-7b-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ) as LLM
+
+
+2. Jan 29, 2024. [gte-large_LangChain_ChromaDB_Llama2-7B_ver2.ipynb](notebooks/gte-large_LangChain_ChromaDB_Llama2-7B_ver2.ipynb).
+
+Architecture:
+* [RecursiveCharacterTextSplitter](https://api.python.langchain.com/en/latest/text_splitter/langchain.text_splitter.RecursiveCharacterTextSplitter.html#) with chunk size 256,
+* ["thenlper/gte-large" embedding model](https://huggingface.co/thenlper/gte-large) with 512 tokens length limitation,
+* [ChromaDB](https://python.langchain.com/docs/integrations/vectorstores/chroma) as a vector store,
+* [RetrievalQA](https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html) with k=10 documents,
+* [TheBloke/Llama-2-7b-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ) as LLM
