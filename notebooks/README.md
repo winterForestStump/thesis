@@ -17,3 +17,7 @@ Architecture:
 * [ChromaDB](https://python.langchain.com/docs/integrations/vectorstores/chroma) as a vector store,
 * [RetrievalQA](https://api.python.langchain.com/en/latest/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html) with k=10 documents,
 * [TheBloke/Llama-2-7b-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ) as LLM
+* Additional changes:
+  - There are 3 documents in the vector database and the search is performed among them
+  - RetrievalQA gives 10 documents (instead of 8) as a LLM context
+  - ~result~ dictioanry was added after each query for retrieved documents viewing
