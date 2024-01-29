@@ -21,3 +21,4 @@ Architecture:
   - There are 3 documents in the vector database and the search is performed among them
   - RetrievalQA gives 10 documents (instead of 8) as a LLM context
   - 'result' dictionary was added after each query for retrieved documents viewing
+  - for retrieval "similarity_score_threshold" search type was used ith the 0.5 threshold
