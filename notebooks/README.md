@@ -9,7 +9,7 @@ Architecture:
 * [TheBloke/Llama-2-7b-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ) as LLM
 
 
-### 2. Jan 29, 2024. [gte-large_LangChain_ChromaDB_Llama2-7B_ver2.ipynb](notebooks/gte-large_LangChain_ChromaDB_Llama2-7B_ver2.ipynb).
+### 2. Jan 29, 2024. [gte-large_LangChain_ChromaDB_Llama2-7B_ver2.ipynb](notebooks/gte_large_LangChain_ChromaDB_Llama2_7B_ver2.ipynb).
 
 Architecture:
 * [RecursiveCharacterTextSplitter](https://api.python.langchain.com/en/latest/text_splitter/langchain.text_splitter.RecursiveCharacterTextSplitter.html#) with chunk size 256,
