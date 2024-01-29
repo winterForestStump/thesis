@@ -20,4 +20,4 @@ Architecture:
 * Additional changes:
   - There are 3 documents in the vector database and the search is performed among them
   - RetrievalQA gives 10 documents (instead of 8) as a LLM context
-  - ~result~ dictioanry was added after each query for retrieved documents viewing
+  - 'result' dictionary was added after each query for retrieved documents viewing
