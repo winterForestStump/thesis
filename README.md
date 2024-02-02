@@ -57,7 +57,12 @@ We have prepared a list of [42 questions](questions.txt) that are most commonly 
 11. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 ### evaluation
-Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
+1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
+2. [Ragas](https://docs.ragas.io/en/latest/index.html)
+3. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
+4. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
+5. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
+6. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
 
 
 ### additional literature
