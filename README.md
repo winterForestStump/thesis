@@ -63,6 +63,7 @@ We have prepared a list of [42 questions](questions.txt) that are most commonly 
 4. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
 5. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
 6. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
+7. Patronus AI. FINANCEBENCH: A New Benchmark for Financial Question Answering [paper](https://arxiv.org/pdf/2311.11944.pdf)
 
 
 ### additional literature
