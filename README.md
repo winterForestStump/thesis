@@ -59,11 +59,13 @@ We have prepared a list of [42 questions](questions.txt) that are most commonly 
 ### evaluation
 1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
 2. [Ragas](https://docs.ragas.io/en/latest/index.html)
-3. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
-4. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
-5. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
-6. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
-7. Patronus AI. FINANCEBENCH: A New Benchmark for Financial Question Answering [paper](https://arxiv.org/pdf/2311.11944.pdf). PatronusAI Enterprise Scenarios [leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) evaluates the performance of language models on real-world enterprise use cases. It provides 6 benchmarks that cover diverse tasks.
+3. [DeepEval](https://github.com/confident-ai/deepeval)
+4. [Tonic Validate](https://docs.llamaindex.ai/en/stable/community/integrations/tonicvalidate.html)
+5. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
+6. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
+7. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
+8. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
+9. Patronus AI. FINANCEBENCH: A New Benchmark for Financial Question Answering [paper](https://arxiv.org/pdf/2311.11944.pdf). PatronusAI Enterprise Scenarios [leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) evaluates the performance of language models on real-world enterprise use cases. It provides 6 benchmarks that cover diverse tasks.
 
 
 ### additional literature
