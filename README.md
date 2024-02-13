@@ -35,6 +35,8 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
 ### experiments board
 [Experiments Board](https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8)
 
+[LangChain Smith projects](https://smith.langchain.com/o/7a22f395-21ae-54fe-a44d-3212a54e04ee/projects?paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D&chartedColumn=latency_p50)
+
 ### datasets
 1. [scraped 10-k filings, extracted by my own](data). Plain text, refine is needed. The same dataset on [Hugging Face Hub](https://huggingface.co/datasets/winterForestStump/10k_SEC_10examples_text_corpus)
 2. [EDGAR-CORPUS](https://zenodo.org/records/5528490). Annual reports from 1993 to 2020 splited into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. [Link to HF dataset](https://huggingface.co/datasets/eloukas/edgar-corpus) and [edgar-crawler github repository](https://github.com/nlpaueb/edgar-crawler)
