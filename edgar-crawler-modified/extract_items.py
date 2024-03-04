@@ -273,9 +273,13 @@ class ExtractItems:
         text = re.sub(r"[\n\s]F[-‒–—]*\d+", "", text, flags=regex_flags)
         text = re.sub(r"\n[^\S\r\n]*Page\s[\d*]+[^\S\r\n]*\n", "", text, flags=regex_flags)
 
+        ###############  <Update> ###############
+        
         # Remove unnecassery Unicode characters
         text = re.sub(r"[\u201c\u201d]", "", text, flags=regex_flags)
         text = re.sub(r"[\u2022\u2019\u2020]", "", text, flags=regex_flags)
+
+        ###############  </Update> ###############
 
         return text
 
@@ -702,6 +706,8 @@ class ExtractItems:
             "filename": filing_metadata["filename"],
         }
 
+        ###############  <Update> ###############
+
         # Extract the text from the document and clean it
         text = ExtractItems.strip_html(str(doc_10k))
         text = ExtractItems.clean_text(text)
@@ -725,6 +731,8 @@ class ExtractItems:
         json_content["content"] = content.strip()
 
         return json_content
+    
+        ###############  </Update> ###############
 
 
     def process_filing(self, filing_metadata: Dict[str, Any]) -> int:
