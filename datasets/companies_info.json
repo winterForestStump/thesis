@@ -1,0 +1,3544 @@
+{
+    "1000230": {
+        "Company Name": "OPTICAL CABLE CORP",
+        "SIC": "3357",
+        "State location": "VA",
+        "State of Inc": "VA",
+        "Fiscal Year End": "1031"
+    },
+    "1001115": {
+        "Company Name": "GEOSPACE TECHNOLOGIES CORP",
+        "SIC": "3829",
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "0930"
+    },
+    "1002590": {
+        "Company Name": "STAR GROUP, L.P.",
+        "SIC": "5990",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1003078": {
+        "Company Name": "MSC INDUSTRIAL DIRECT CO INC",
+        "SIC": "5084",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0831"
+    },
+    "10048": {
+        "Company Name": "BARNWELL INDUSTRIES INC",
+        "SIC": "1311",
+        "State location": "HI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "100493": {
+        "Company Name": "TYSON FOODS, INC.",
+        "SIC": "2015",
+        "State location": "AR",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1005210": {
+        "Company Name": "SUBURBAN PROPANE PARTNERS LP",
+        "SIC": "5900",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1005731": {
+        "Company Name": "IDT CORP",
+        "SIC": "4813",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "1006028": {
+        "Company Name": "PURE BIOSCIENCE, INC.",
+        "SIC": "2890",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "1008653": {
+        "Company Name": "Ecomax, Inc",
+        "SIC": "7200",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1008654": {
+        "Company Name": "TUPPERWARE BRANDS CORP",
+        "SIC": "3089",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1013237": {
+        "Company Name": "FACTSET RESEARCH SYSTEMS INC",
+        "SIC": "7370",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1014052": {
+        "Company Name": "Digerati Technologies, Inc.",
+        "SIC": "7374",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1015155": {
+        "Company Name": "CHARLES & COLVARD LTD",
+        "SIC": "3910",
+        "State location": "NC",
+        "State of Inc": "NC",
+        "Fiscal Year End": "0630"
+    },
+    "1021917": {
+        "Company Name": "Awaysis Capital, Inc.",
+        "SIC": "6512",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1022505": {
+        "Company Name": "SideChannel, Inc.",
+        "SIC": "7374",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1023459": {
+        "Company Name": "Simulations Plus, Inc.",
+        "SIC": "7373",
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "0831"
+    },
+    "1024478": {
+        "Company Name": "ROCKWELL AUTOMATION, INC",
+        "SIC": "3829",
+        "State location": "WI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1032220": {
+        "Company Name": "MAXIMUS, INC.",
+        "SIC": "7389",
+        "State location": "VA",
+        "State of Inc": "VA",
+        "Fiscal Year End": "0930"
+    },
+    "103595": {
+        "Company Name": "VILLAGE SUPER MARKET INC",
+        "SIC": "5411",
+        "State location": "NJ",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0727"
+    },
+    "1041803": {
+        "Company Name": "PRICESMART INC",
+        "SIC": "5331",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1045742": {
+        "Company Name": "LIVE VENTURES Inc",
+        "SIC": "5900",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1045942": {
+        "Company Name": "Track Group, Inc.",
+        "SIC": "3669",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1046050": {
+        "Company Name": "TIMBERLAND BANCORP INC",
+        "SIC": "6036",
+        "State location": "WA",
+        "State of Inc": "WA",
+        "Fiscal Year End": "0930"
+    },
+    "1048268": {
+        "Company Name": "IES Holdings, Inc.",
+        "SIC": "1731",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1048695": {
+        "Company Name": "F5, INC.",
+        "SIC": "3576",
+        "State location": "WA",
+        "State of Inc": "WA",
+        "Fiscal Year End": "0930"
+    },
+    "105132": {
+        "Company Name": "WD 40 CO",
+        "SIC": "2890",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1057060": {
+        "Company Name": "MARINEMAX INC",
+        "SIC": "5531",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1061164": {
+        "Company Name": "PEREGRINE INDUSTRIES INC",
+        "SIC": "3569",
+        "State location": "NY",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0731"
+    },
+    "1069533": {
+        "Company Name": "RGC RESOURCES INC",
+        "SIC": "4923",
+        "State location": "VA",
+        "State of Inc": "VA",
+        "Fiscal Year End": "0930"
+    },
+    "1071840": {
+        "Company Name": "SolarWindow Technologies, Inc.",
+        "SIC": "2860",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1074828": {
+        "Company Name": "KNOW LABS, INC.",
+        "SIC": "3829",
+        "State location": "WA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "107687": {
+        "Company Name": "WINNEBAGO INDUSTRIES INC",
+        "SIC": "3716",
+        "State location": "MN",
+        "State of Inc": "MN",
+        "Fiscal Year End": "0831"
+    },
+    "10795": {
+        "Company Name": "BECTON DICKINSON & CO",
+        "SIC": "3841",
+        "State location": "NJ",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0930"
+    },
+    "1082733": {
+        "Company Name": "VISIUM TECHNOLOGIES, INC.",
+        "SIC": "7371",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0630"
+    },
+    "108312": {
+        "Company Name": "Woodward, Inc.",
+        "SIC": "3620",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1090872": {
+        "Company Name": "AGILENT TECHNOLOGIES, INC.",
+        "SIC": "3826",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "109177": {
+        "Company Name": "Spectrum Brands Holdings, Inc.",
+        "SIC": "3690",
+        "State location": "WI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1096752": {
+        "Company Name": "EDGEWELL PERSONAL CARE Co",
+        "SIC": "2844",
+        "State location": "CT",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "1098009": {
+        "Company Name": "America Great Health",
+        "SIC": "2834",
+        "State location": "CA",
+        "State of Inc": "CA",
+        "Fiscal Year End": "0630"
+    },
+    "1099369": {
+        "Company Name": "DESTINY MEDIA TECHNOLOGIES INC",
+        "SIC": "7372",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1101396": {
+        "Company Name": "DELTA APPAREL, INC",
+        "SIC": "5130",
+        "State location": "GA",
+        "State of Inc": "GA",
+        "Fiscal Year End": "0930"
+    },
+    "1106838": {
+        "Company Name": "Sonnet BioTherapeutics Holdings, Inc.",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1118417": {
+        "Company Name": "MODEL N, INC.",
+        "SIC": "7370",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1121795": {
+        "Company Name": "GHST World Inc.",
+        "SIC": "7372",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1126956": {
+        "Company Name": "SPIRE INC",
+        "SIC": "4924",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "1127475": {
+        "Company Name": "Digital Brand Media & Marketing Group, Inc.",
+        "SIC": "7389",
+        "State location": "NY",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0831"
+    },
+    "1128383": {
+        "Company Name": "NEVADA CLASSIC THOROUGHBREDS INC",
+        "SIC": "7948",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1133062": {
+        "Company Name": "JANEL CORP",
+        "SIC": "7389",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1138978": {
+        "Company Name": "Novo Integrated Sciences, Inc.",
+        "SIC": "3510",
+        "State location": "WA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1140859": {
+        "Company Name": "Cencora, Inc.",
+        "SIC": "5122",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1143513": {
+        "Company Name": "GLADSTONE CAPITAL CORP",
+        "SIC": null,
+        "State location": "VA",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1144215": {
+        "Company Name": "ACUITY BRANDS INC",
+        "SIC": "3640",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1145255": {
+        "Company Name": "HENNESSY ADVISORS INC",
+        "SIC": "6282",
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1158420": {
+        "Company Name": "Green Giant Inc.",
+        "SIC": "6500",
+        "State location": "F4",
+        "State of Inc": "F4",
+        "Fiscal Year End": "0930"
+    },
+    "1177648": {
+        "Company Name": "ENANTA PHARMACEUTICALS INC",
+        "SIC": "2834",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1178727": {
+        "Company Name": "COMSovereign Holding Corp.",
+        "SIC": "3669",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "12040": {
+        "Company Name": "FLANIGANS ENTERPRISES INC",
+        "SIC": "5812",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0930"
+    },
+    "1222333": {
+        "Company Name": "SPDR GOLD TRUST",
+        "SIC": "6221",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1227654": {
+        "Company Name": "COMPASS MINERALS INTERNATIONAL INC",
+        "SIC": "1400",
+        "State location": "KS",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1230524": {
+        "Company Name": "Cyber Apps World",
+        "SIC": "8742",
+        "State location": "V8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1235468": {
+        "Company Name": "LIQUIDITY SERVICES INC",
+        "SIC": "7389",
+        "State location": "MD",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1260221": {
+        "Company Name": "TransDigm Group INC",
+        "SIC": "3728",
+        "State location": "OH",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1261654": {
+        "Company Name": "UNIVERSAL TECHNICAL INSTITUTE INC",
+        "SIC": "8200",
+        "State location": "AZ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1297937": {
+        "Company Name": "PARKS AMERICA, INC",
+        "SIC": "7990",
+        "State location": "GA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1001"
+    },
+    "1301991": {
+        "Company Name": "SmartMetric, Inc.",
+        "SIC": "3990",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1308027": {
+        "Company Name": "Vystar Corp",
+        "SIC": "3060",
+        "State location": "MA",
+        "State of Inc": "GA",
+        "Fiscal Year End": "1231"
+    },
+    "1308547": {
+        "Company Name": "Dolby Laboratories, Inc.",
+        "SIC": "6794",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0927"
+    },
+    "1309057": {
+        "Company Name": "China Health Industries Holdings, Inc.",
+        "SIC": "2834",
+        "State location": "F4",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1314052": {
+        "Company Name": "ANAVEX LIFE SCIENCES CORP.",
+        "SIC": "2836",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1314727": {
+        "Company Name": "Sonos Inc",
+        "SIC": "3651",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": null
+    },
+    "1319161": {
+        "Company Name": "Warner Music Group Corp.",
+        "SIC": "7900",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1331612": {
+        "Company Name": "INNOVATIVE MEDTECH, INC.",
+        "SIC": "5040",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1333822": {
+        "Company Name": "SemiLEDs Corp",
+        "SIC": "3674",
+        "State location": "F5",
+        "State of Inc": null,
+        "Fiscal Year End": "0831"
+    },
+    "1337068": {
+        "Company Name": "Magyar Bancorp, Inc.",
+        "SIC": "6035",
+        "State location": "NJ",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1342423": {
+        "Company Name": "Limoneira CO",
+        "SIC": "0100",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "1343009": {
+        "Company Name": "CNBX Pharmaceuticals Inc.",
+        "SIC": "2834",
+        "State location": "MD",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1345865": {
+        "Company Name": "Buildablock Corp.",
+        "SIC": "4841",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "1130"
+    },
+    "1346022": {
+        "Company Name": "Enertopia Corp.",
+        "SIC": "1000",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1348362": {
+        "Company Name": "Lexaria Bioscience Corp.",
+        "SIC": "2834",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1350593": {
+        "Company Name": "Mueller Water Products, Inc.",
+        "SIC": "3490",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1352081": {
+        "Company Name": "Cardinal Ethanol LLC",
+        "SIC": "2860",
+        "State location": "IN",
+        "State of Inc": "IN",
+        "Fiscal Year End": "0930"
+    },
+    "1359687": {
+        "Company Name": "RED TRAIL ENERGY, LLC",
+        "SIC": "2860",
+        "State location": "ND",
+        "State of Inc": "ND",
+        "Fiscal Year End": "0930"
+    },
+    "1362516": {
+        "Company Name": "Cleartronic, Inc.",
+        "SIC": "4812",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0930"
+    },
+    "1368458": {
+        "Company Name": "Sally Beauty Holdings, Inc.",
+        "SIC": "5990",
+        "State location": "TX",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1374567": {
+        "Company Name": "Luvu Brands, Inc.",
+        "SIC": "2510",
+        "State location": "GA",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0630"
+    },
+    "1374881": {
+        "Company Name": "Kingfish Holding Corp",
+        "SIC": "1540",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1376793": {
+        "Company Name": "Cavitation Technologies, Inc.",
+        "SIC": "0700",
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1376986": {
+        "Company Name": "Tennessee Valley Authority",
+        "SIC": "4911",
+        "State location": "TN",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1378590": {
+        "Company Name": "Bridgeline Digital, Inc.",
+        "SIC": "7372",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1378992": {
+        "Company Name": "BERRY GLOBAL GROUP, INC.",
+        "SIC": "3089",
+        "State location": "IN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1001"
+    },
+    "1379006": {
+        "Company Name": "NANOVIRICIDES, INC.",
+        "SIC": "2834",
+        "State location": "CT",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1381668": {
+        "Company Name": "TFS Financial CORP",
+        "SIC": "6035",
+        "State location": "OH",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1382230": {
+        "Company Name": "ESSA Bancorp, Inc.",
+        "SIC": "6036",
+        "State location": "PA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1383414": {
+        "Company Name": "PENNANTPARK INVESTMENT CORP",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1385157": {
+        "Company Name": "TE Connectivity Ltd.",
+        "SIC": "5065",
+        "State location": "V8",
+        "State of Inc": "V8",
+        "Fiscal Year End": "0927"
+    },
+    "1385818": {
+        "Company Name": "AYTU BIOPHARMA, INC",
+        "SIC": "2834",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1397016": {
+        "Company Name": "Optex Systems Holdings Inc",
+        "SIC": "3827",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1001"
+    },
+    "1403161": {
+        "Company Name": "VISA INC.",
+        "SIC": "7389",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1406587": {
+        "Company Name": "Forestar Group Inc.",
+        "SIC": "6500",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1409624": {
+        "Company Name": "HIMALAYA TECHNOLOGIES, INC",
+        "SIC": "1311",
+        "State location": "PA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1410738": {
+        "Company Name": "Voip-pal.com Inc",
+        "SIC": "3661",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1414382": {
+        "Company Name": "Concrete Leveling Systems Inc",
+        "SIC": "3590",
+        "State location": "OH",
+        "State of Inc": null,
+        "Fiscal Year End": "0731"
+    },
+    "1414932": {
+        "Company Name": "Oaktree Specialty Lending Corp",
+        "SIC": null,
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1415744": {
+        "Company Name": "NORTHERN MINERALS & EXPLORATION LTD.",
+        "SIC": "1040",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1417398": {
+        "Company Name": "Hillenbrand, Inc.",
+        "SIC": "3990",
+        "State location": "IN",
+        "State of Inc": "IN",
+        "Fiscal Year End": "0930"
+    },
+    "1423221": {
+        "Company Name": "Quanex Building Products CORP",
+        "SIC": "3350",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "1424864": {
+        "Company Name": "Rise Gold Corp.",
+        "SIC": "1000",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1429393": {
+        "Company Name": "Trutankless, Inc.",
+        "SIC": "3630",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1434740": {
+        "Company Name": "Ranger Gold Corp.",
+        "SIC": "1040",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0331"
+    },
+    "1435064": {
+        "Company Name": "CEMTREX INC",
+        "SIC": "3670",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1435508": {
+        "Company Name": "First Savings Financial Group, Inc.",
+        "SIC": "6035",
+        "State location": "IN",
+        "State of Inc": "IN",
+        "Fiscal Year End": "0930"
+    },
+    "1435812": {
+        "Company Name": "Arem Pacific Corp",
+        "SIC": "7200",
+        "State location": "C3",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1441082": {
+        "Company Name": "Healing Co Inc.",
+        "SIC": "1000",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1443089": {
+        "Company Name": "WEARABLE HEALTH SOLUTIONS, INC.",
+        "SIC": "3669",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1445942": {
+        "Company Name": "Texas Mineral Resources Corp.",
+        "SIC": "1040",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1451448": {
+        "Company Name": "ESPORTS ENTERTAINMENT GROUP, INC.",
+        "SIC": "7900",
+        "State location": "O1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1467373": {
+        "Company Name": "Accenture plc",
+        "SIC": "7389",
+        "State location": "L2",
+        "State of Inc": "L2",
+        "Fiscal Year End": "0831"
+    },
+    "1468978": {
+        "Company Name": "SOUTHERN ITS INTERNATIONAL, INC.",
+        "SIC": "7372",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1469115": {
+        "Company Name": "Ridgedale Holdings Inc.",
+        "SIC": "6510",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1476765": {
+        "Company Name": "GOLUB CAPITAL BDC, Inc.",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1481504": {
+        "Company Name": "XERIANT, INC.",
+        "SIC": "3721",
+        "State location": "FL",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1482554": {
+        "Company Name": "Hartford Great Health Corp.",
+        "SIC": "7374",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1490349": {
+        "Company Name": "PhenixFIN Corp",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1490906": {
+        "Company Name": "Capitol Federal Financial, Inc.",
+        "SIC": "6035",
+        "State location": "KS",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1493594": {
+        "Company Name": "MACOM Technology Solutions Holdings, Inc.",
+        "SIC": "3674",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0929"
+    },
+    "1500198": {
+        "Company Name": "NEUROONE MEDICAL TECHNOLOGIES Corp",
+        "SIC": "3841",
+        "State location": "MN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1500375": {
+        "Company Name": "Home Federal Bancorp, Inc. of Louisiana",
+        "SIC": "6035",
+        "State location": "LA",
+        "State of Inc": "LA",
+        "Fiscal Year End": "0630"
+    },
+    "1504619": {
+        "Company Name": "PennantPark Floating Rate Capital Ltd.",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1506251": {
+        "Company Name": "Citius Pharmaceuticals, Inc.",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1506929": {
+        "Company Name": "VERDE RESOURCES, INC.",
+        "SIC": "1040",
+        "State location": "MO",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1508348": {
+        "Company Name": "AmeriCann, Inc.",
+        "SIC": "8742",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1512228": {
+        "Company Name": "NIOCORP DEVELOPMENTS LTD",
+        "SIC": "1000",
+        "State location": "CO",
+        "State of Inc": "A1",
+        "Fiscal Year End": "0630"
+    },
+    "1525306": {
+        "Company Name": "First America Resources Corp",
+        "SIC": "5065",
+        "State location": "IL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1527728": {
+        "Company Name": "RENOVARO BIOSCIENCES INC.",
+        "SIC": "2834",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1530425": {
+        "Company Name": "Artisan Consumer Goods, Inc.",
+        "SIC": "1000",
+        "State location": "WA",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1530950": {
+        "Company Name": "Post Holdings, Inc.",
+        "SIC": "2040",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "1540159": {
+        "Company Name": "Edesa Biotech, Inc.",
+        "SIC": "2834",
+        "State location": "A6",
+        "State of Inc": "A1",
+        "Fiscal Year End": "0930"
+    },
+    "1547459": {
+        "Company Name": "Natural Grocers by Vitamin Cottage, Inc.",
+        "SIC": "5411",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1554906": {
+        "Company Name": "Crown Baus Capital Corp.",
+        "SIC": "7200",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0430"
+    },
+    "1556801": {
+        "Company Name": "My City Builders, Inc.",
+        "SIC": "6500",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1557798": {
+        "Company Name": "Tianci International, Inc.",
+        "SIC": "3576",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1569083": {
+        "Company Name": "MAKINGORG, INC.",
+        "SIC": "3751",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1575295": {
+        "Company Name": "Allied Corp.",
+        "SIC": "5961",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1581280": {
+        "Company Name": "Twist Bioscience Corp",
+        "SIC": "2836",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1584509": {
+        "Company Name": "Aramark",
+        "SIC": "5812",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0929"
+    },
+    "1584693": {
+        "Company Name": "Healthcare Integrated Technologies Inc.",
+        "SIC": "7900",
+        "State location": "TN",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1589150": {
+        "Company Name": "Regen BioPharma Inc",
+        "SIC": "2834",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1589526": {
+        "Company Name": "Blue Bird Corp",
+        "SIC": "3713",
+        "State location": "GA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1591565": {
+        "Company Name": "BALLY, CORP.",
+        "SIC": "5200",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1592706": {
+        "Company Name": "SB/RH Holdings, LLC",
+        "SIC": "3690",
+        "State location": "WI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1593001": {
+        "Company Name": "NightFood Holdings, Inc.",
+        "SIC": "2060",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1596783": {
+        "Company Name": "Catalent, Inc.",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1601046": {
+        "Company Name": "Keysight Technologies, Inc.",
+        "SIC": "3823",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "16040": {
+        "Company Name": "CABOT CORP",
+        "SIC": "2890",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1605331": {
+        "Company Name": "AB INTERNATIONAL GROUP CORP.",
+        "SIC": "6794",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1610820": {
+        "Company Name": "BriaCell Therapeutics Corp.",
+        "SIC": "2834",
+        "State location": "A1",
+        "State of Inc": "A1",
+        "Fiscal Year End": "0731"
+    },
+    "1614556": {
+        "Company Name": "Star Alliance International Corp.",
+        "SIC": "1040",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1616533": {
+        "Company Name": "SMART Global Holdings, Inc.",
+        "SIC": "3674",
+        "State location": "CA",
+        "State of Inc": "E9",
+        "Fiscal Year End": "0826"
+    },
+    "1616741": {
+        "Company Name": "PATRIOT TRANSPORTATION HOLDING, INC.",
+        "SIC": "4210",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0930"
+    },
+    "1618181": {
+        "Company Name": "World Gold Trust",
+        "SIC": "6221",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1618921": {
+        "Company Name": "Walgreens Boots Alliance, Inc.",
+        "SIC": "5912",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1619096": {
+        "Company Name": "Summit Networks Inc.",
+        "SIC": "4953",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1620749": {
+        "Company Name": "Panamera Holdings Corp",
+        "SIC": "8742",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1624140": {
+        "Company Name": "Coretag Holdings, Inc.",
+        "SIC": "3100",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1626644": {
+        "Company Name": "Odyssey Health, Inc.",
+        "SIC": "3841",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1632790": {
+        "Company Name": "ENERGIZER HOLDINGS, INC.",
+        "SIC": "3690",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "1633932": {
+        "Company Name": "ESSA Pharma Inc.",
+        "SIC": "2834",
+        "State location": "A1",
+        "State of Inc": "A1",
+        "Fiscal Year End": "0930"
+    },
+    "1636051": {
+        "Company Name": "FUSE GROUP HOLDING INC.",
+        "SIC": "1000",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1639327": {
+        "Company Name": "Gushen, Inc",
+        "SIC": "7363",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1642363": {
+        "Company Name": "SEGUIN NATURAL HAIR PRODUCTS INC.",
+        "SIC": "2844",
+        "State location": "A6",
+        "State of Inc": "NV",
+        "Fiscal Year End": null
+    },
+    "1643988": {
+        "Company Name": "Loop Media, Inc.",
+        "SIC": "7363",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1644378": {
+        "Company Name": "RMR GROUP INC.",
+        "SIC": "8742",
+        "State location": "MA",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1644903": {
+        "Company Name": "cbdMD, Inc.",
+        "SIC": "2844",
+        "State location": "NC",
+        "State of Inc": "NC",
+        "Fiscal Year End": "0930"
+    },
+    "1645590": {
+        "Company Name": "Hewlett Packard Enterprise Co",
+        "SIC": "3570",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "1647822": {
+        "Company Name": "SavMobi Technology Inc.",
+        "SIC": "7372",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0531"
+    },
+    "1649989": {
+        "Company Name": "Outlook Therapeutics, Inc.",
+        "SIC": "2836",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1656501": {
+        "Company Name": "BorrowMoney.com, Inc.",
+        "SIC": "7389",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0831"
+    },
+    "1666138": {
+        "Company Name": "Atkore Inc.",
+        "SIC": "3690",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1667313": {
+        "Company Name": "Zedge, Inc.",
+        "SIC": "7372",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "1670541": {
+        "Company Name": "Adient plc",
+        "SIC": "3714",
+        "State location": "L2",
+        "State of Inc": "L2",
+        "Fiscal Year End": "0930"
+    },
+    "1674862": {
+        "Company Name": "ASHLAND INC.",
+        "SIC": "5160",
+        "State location": "DE",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1674910": {
+        "Company Name": "VALVOLINE INC",
+        "SIC": "2990",
+        "State location": "KY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1675634": {
+        "Company Name": "ShiftPixy, Inc.",
+        "SIC": "7361",
+        "State location": "FL",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0831"
+    },
+    "1678848": {
+        "Company Name": "CAMBELL INTERNATIONAL HOLDING CORP.",
+        "SIC": "2833",
+        "State location": "W1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1681622": {
+        "Company Name": "Varex Imaging Corp",
+        "SIC": "3679",
+        "State location": "UT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0929"
+    },
+    "1681769": {
+        "Company Name": "BRILLIANT N.E.V. CORP.",
+        "SIC": "2840",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1683252": {
+        "Company Name": "TOKEN COMMUNITIES LTD.",
+        "SIC": "7374",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1687221": {
+        "Company Name": "REV Group, Inc.",
+        "SIC": "3711",
+        "State location": "WI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "1696195": {
+        "Company Name": "KINETIC GROUP INC.",
+        "SIC": "7310",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1700844": {
+        "Company Name": "EvoAir Holdings Inc.",
+        "SIC": "3585",
+        "State location": "N8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1702744": {
+        "Company Name": "Simply Good Foods Co",
+        "SIC": "2000",
+        "State location": "CO",
+        "State of Inc": null,
+        "Fiscal Year End": "0826"
+    },
+    "1713863": {
+        "Company Name": "Rafael Holdings, Inc.",
+        "SIC": "6500",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "1714367": {
+        "Company Name": "SigmaRenoPro, Inc.",
+        "SIC": "7200",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1715268": {
+        "Company Name": "Golub Capital BDC 3, Inc.",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1715611": {
+        "Company Name": "BODY & MIND INC.",
+        "SIC": "2834",
+        "State location": "A1",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1718227": {
+        "Company Name": "Construction Partners, Inc.",
+        "SIC": "1600",
+        "State location": "AL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1721056": {
+        "Company Name": "HOOPS SCOUTING USA",
+        "SIC": "7374",
+        "State location": "CA",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0630"
+    },
+    "1728688": {
+        "Company Name": "i3 Verticals, Inc.",
+        "SIC": "7389",
+        "State location": "TN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1730168": {
+        "Company Name": "Broadcom Inc.",
+        "SIC": "3674",
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "1029"
+    },
+    "1732845": {
+        "Company Name": "WestRock Co",
+        "SIC": "2650",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1734713": {
+        "Company Name": "BrightView Holdings, Inc.",
+        "SIC": "0700",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1741257": {
+        "Company Name": "BANGFU TECHNOLOGY GROUP CO., LTD.",
+        "SIC": "7372",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1744489": {
+        "Company Name": "Walt Disney Co",
+        "SIC": "7990",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0928"
+    },
+    "1746119": {
+        "Company Name": "MU GLOBAL HOLDING Ltd",
+        "SIC": "7200",
+        "State location": "F5",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1748945": {
+        "Company Name": "Grayscale Horizen Trust (ZEN)",
+        "SIC": "6199",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1749849": {
+        "Company Name": "Organic Agricultural Co Ltd",
+        "SIC": "0100",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0331"
+    },
+    "1750777": {
+        "Company Name": "Hawkeye Systems, Inc.",
+        "SIC": "3861",
+        "State location": "GA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1755058": {
+        "Company Name": "ATIF Holdings Ltd",
+        "SIC": "8742",
+        "State location": "F4",
+        "State of Inc": "D8",
+        "Fiscal Year End": "0731"
+    },
+    "1755101": {
+        "Company Name": "APPlife Digital Solutions Inc",
+        "SIC": "7374",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1761325": {
+        "Company Name": "Grayscale Stellar Lumens Trust (XLM)",
+        "SIC": "6221",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1763925": {
+        "Company Name": "CoJax Oil & Gas Corp",
+        "SIC": "1311",
+        "State location": "VA",
+        "State of Inc": "VA",
+        "Fiscal Year End": "1231"
+    },
+    "1765651": {
+        "Company Name": "Pacific Sports Exchange Inc.",
+        "SIC": "5940",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1768267": {
+        "Company Name": "Cerence Inc.",
+        "SIC": "7372",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1772016": {
+        "Company Name": "BELLRING BRANDS, INC.",
+        "SIC": "2000",
+        "State location": "MO",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1772177": {
+        "Company Name": "KURA SUSHI USA, INC.",
+        "SIC": "5812",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1772921": {
+        "Company Name": "OneWater Marine Inc.",
+        "SIC": "5531",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1775194": {
+        "Company Name": "UPEXI, INC.",
+        "SIC": "2833",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1782754": {
+        "Company Name": "AZEK Co Inc.",
+        "SIC": "3089",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1785493": {
+        "Company Name": "Phoenix Plus Corp.",
+        "SIC": "1700",
+        "State location": "N8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1787412": {
+        "Company Name": "WB Burgers Asia, Inc.",
+        "SIC": "5812",
+        "State location": "M0",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1788717": {
+        "Company Name": "F45 Training Holdings Inc.",
+        "SIC": "5040",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1800637": {
+        "Company Name": "Agrify Corp",
+        "SIC": "0700",
+        "State location": "MA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1802974": {
+        "Company Name": "Mission Produce, Inc.",
+        "SIC": "0700",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "1807166": {
+        "Company Name": "Amesite Inc.",
+        "SIC": "7372",
+        "State location": "MI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1818550": {
+        "Company Name": "Incordex Corp.",
+        "SIC": "7200",
+        "State location": "X0",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1821806": {
+        "Company Name": "Leslie's, Inc.",
+        "SIC": "5990",
+        "State location": "AZ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1822145": {
+        "Company Name": "Presto Automation Inc.",
+        "SIC": "7372",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1822372": {
+        "Company Name": "Streetex Corp.",
+        "SIC": "7310",
+        "State location": "2M",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1823584": {
+        "Company Name": "ALLIANCE ENTERTAINMENT HOLDING CORP",
+        "SIC": "5099",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1828588": {
+        "Company Name": "Hanover Bancorp, Inc. /NY",
+        "SIC": "6022",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0930"
+    },
+    "1828739": {
+        "Company Name": "Azzurro Solutions Corp.",
+        "SIC": "5099",
+        "State location": "2N",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1829311": {
+        "Company Name": "BITMINE IMMERSION TECHNOLOGIES, INC.",
+        "SIC": "6199",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1834045": {
+        "Company Name": "Vintage Wine Estates, Inc.",
+        "SIC": "2080",
+        "State location": "NV",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1837240": {
+        "Company Name": "Symbotic Inc.",
+        "SIC": "3569",
+        "State location": "MA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1839608": {
+        "Company Name": "Getaround, Inc",
+        "SIC": "7510",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1840225": {
+        "Company Name": "Fusion Acquisition Corp. II",
+        "SIC": "6770",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "1231"
+    },
+    "1844817": {
+        "Company Name": "Armada Acquisition Corp. I",
+        "SIC": "6770",
+        "State location": "PA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1865127": {
+        "Company Name": "Lucy Scientific Discovery, Inc.",
+        "SIC": "2834",
+        "State location": "A1",
+        "State of Inc": "A1",
+        "Fiscal Year End": "0630"
+    },
+    "1868878": {
+        "Company Name": "GOLUB CAPITAL DIRECT LENDING CORP",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1868941": {
+        "Company Name": "Fluence Energy, Inc.",
+        "SIC": "3690",
+        "State location": "VA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1871890": {
+        "Company Name": "Galaxy Enterprises Inc. /WY/",
+        "SIC": "6531",
+        "State location": "NV",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0731"
+    },
+    "1872371": {
+        "Company Name": "Oaktree Strategic Credit Fund",
+        "SIC": null,
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1872789": {
+        "Company Name": "Embecta Corp.",
+        "SIC": "3841",
+        "State location": "DE",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1873213": {
+        "Company Name": "Birdie Win Corp",
+        "SIC": "8200",
+        "State location": "N8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1880249": {
+        "Company Name": "WeCapital Holdings, Inc.",
+        "SIC": "6770",
+        "State location": "M0",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1882078": {
+        "Company Name": "Arisz Acquisition Corp.",
+        "SIC": "6770",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1883835": {
+        "Company Name": "ESG Inc.",
+        "SIC": "2836",
+        "State location": "PA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1885849": {
+        "Company Name": "Tofla Megaline Inc.",
+        "SIC": "7372",
+        "State location": "O5",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1887912": {
+        "Company Name": "Welsis Corp.",
+        "SIC": "8000",
+        "State location": "Z2",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0930"
+    },
+    "1888846": {
+        "Company Name": "Ultimate Holdings Group, Inc.",
+        "SIC": "6770",
+        "State location": "M0",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1892316": {
+        "Company Name": "Longduoduo Co Ltd",
+        "SIC": "8000",
+        "State location": "F4",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1892922": {
+        "Company Name": "Mars Acquisition Corp.",
+        "SIC": "6770",
+        "State location": "NY",
+        "State of Inc": "E9",
+        "Fiscal Year End": "0930"
+    },
+    "1895939": {
+        "Company Name": "TANICO Inc.",
+        "SIC": "7371",
+        "State location": "Z4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1901606": {
+        "Company Name": "Golub Capital Direct Lending Unlevered Corp",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1901612": {
+        "Company Name": "Golub Capital BDC 4, Inc.",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1913838": {
+        "Company Name": "VWF Bancorp, Inc.",
+        "SIC": "6036",
+        "State location": "OH",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "1916879": {
+        "Company Name": "VECTOR 21 HOLDINGS, INC.",
+        "SIC": "6770",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1929589": {
+        "Company Name": "MariaDB plc",
+        "SIC": "7372",
+        "State location": "CA",
+        "State of Inc": "L2",
+        "Fiscal Year End": "0930"
+    },
+    "1930087": {
+        "Company Name": "Golub Capital Private Credit Fund",
+        "SIC": null,
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1935033": {
+        "Company Name": "KEEMO Fashion Group Ltd",
+        "SIC": "5130",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1938109": {
+        "Company Name": "Pineapple Financial Inc.",
+        "SIC": "6199",
+        "State location": "Z4",
+        "State of Inc": null,
+        "Fiscal Year End": null
+    },
+    "1967097": {
+        "Company Name": "Atmos Energy Kansas Securitization I, LLC",
+        "SIC": null,
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "0930"
+    },
+    "1967306": {
+        "Company Name": "Mercer Bancorp, Inc.",
+        "SIC": "6036",
+        "State location": "OH",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1967649": {
+        "Company Name": "Vestis Corp",
+        "SIC": "5190",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1974793": {
+        "Company Name": "Oaktree Gardens OLP, LLC",
+        "SIC": null,
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1975931": {
+        "Company Name": "Bloom HoldCo LLC",
+        "SIC": "6199",
+        "State location": "FL",
+        "State of Inc": null,
+        "Fiscal Year End": null
+    },
+    "1976900": {
+        "Company Name": "DFP HOLDINGS Ltd",
+        "SIC": "8200",
+        "State location": "F5",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1978811": {
+        "Company Name": "Gouverneur Bancorp, Inc./MD/",
+        "SIC": "6036",
+        "State location": "NY",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "216877": {
+        "Company Name": "PISMO COAST VILLAGE INC",
+        "SIC": "7000",
+        "State location": "CA",
+        "State of Inc": "CA",
+        "Fiscal Year End": "0930"
+    },
+    "22444": {
+        "Company Name": "COMMERCIAL METALS Co",
+        "SIC": "3312",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "23197": {
+        "Company Name": "COMTECH TELECOMMUNICATIONS CORP /DE/",
+        "SIC": "3663",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "276720": {
+        "Company Name": "PURE CYCLE CORP",
+        "SIC": "4941",
+        "State location": "CO",
+        "State of Inc": "CO",
+        "Fiscal Year End": "0831"
+    },
+    "27673": {
+        "Company Name": "DEERE JOHN CAPITAL CORP",
+        "SIC": "6153",
+        "State location": "WI",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1029"
+    },
+    "2969": {
+        "Company Name": "Air Products & Chemicals, Inc.",
+        "SIC": "2810",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "3146": {
+        "Company Name": "SPIRE ALABAMA INC",
+        "SIC": "4924",
+        "State location": "AL",
+        "State of Inc": "AL",
+        "Fiscal Year End": "0930"
+    },
+    "315189": {
+        "Company Name": "DEERE & CO",
+        "SIC": "3523",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1029"
+    },
+    "316253": {
+        "Company Name": "ENZO BIOCHEM INC",
+        "SIC": "8071",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0731"
+    },
+    "320193": {
+        "Company Name": "Apple Inc.",
+        "SIC": "3571",
+        "State location": "CA",
+        "State of Inc": "CA",
+        "Fiscal Year End": "0928"
+    },
+    "32604": {
+        "Company Name": "EMERSON ELECTRIC CO",
+        "SIC": "3600",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "3545": {
+        "Company Name": "ALICO, INC.",
+        "SIC": "0100",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0930"
+    },
+    "356037": {
+        "Company Name": "CSP INC /MA/",
+        "SIC": "7373",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "0930"
+    },
+    "356309": {
+        "Company Name": "NEW JERSEY RESOURCES CORP",
+        "SIC": "4924",
+        "State location": "NJ",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0930"
+    },
+    "357294": {
+        "Company Name": "HOVNANIAN ENTERPRISES INC",
+        "SIC": "1531",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "38264": {
+        "Company Name": "Forward Industries, Inc.",
+        "SIC": "3089",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0930"
+    },
+    "38777": {
+        "Company Name": "FRANKLIN RESOURCES INC",
+        "SIC": "6282",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "40570": {
+        "Company Name": "GEE Group Inc.",
+        "SIC": "7361",
+        "State location": "FL",
+        "State of Inc": "IL",
+        "Fiscal Year End": "0930"
+    },
+    "4127": {
+        "Company Name": "SKYWORKS SOLUTIONS, INC.",
+        "SIC": "3674",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0929"
+    },
+    "43920": {
+        "Company Name": "GREIF, INC",
+        "SIC": "3412",
+        "State location": "OH",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "46619": {
+        "Company Name": "HEICO CORP",
+        "SIC": "3724",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "1031"
+    },
+    "46765": {
+        "Company Name": "Helmerich & Payne, Inc.",
+        "SIC": "1381",
+        "State location": "OK",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "47217": {
+        "Company Name": "HP INC",
+        "SIC": "3570",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "48465": {
+        "Company Name": "HORMEL FOODS CORP /DE/",
+        "SIC": "2011",
+        "State location": "MN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1027"
+    },
+    "50292": {
+        "Company Name": "IEH Corp",
+        "SIC": "3678",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0331"
+    },
+    "50493": {
+        "Company Name": "INGLES MARKETS INC",
+        "SIC": "5411",
+        "State location": "NC",
+        "State of Inc": "NC",
+        "Fiscal Year End": "0930"
+    },
+    "50725": {
+        "Company Name": "GRIFFON CORP",
+        "SIC": "3442",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "52988": {
+        "Company Name": "JACOBS SOLUTIONS INC.",
+        "SIC": "1600",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0927"
+    },
+    "54187": {
+        "Company Name": "MAYS J W INC",
+        "SIC": "6512",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0731"
+    },
+    "56978": {
+        "Company Name": "KULICKE & SOFFA INDUSTRIES INC",
+        "SIC": "3674",
+        "State location": "U0",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0928"
+    },
+    "57183": {
+        "Company Name": "SPIRE MISSOURI INC",
+        "SIC": "4924",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "58361": {
+        "Company Name": "LEE ENTERPRISES, Inc",
+        "SIC": "2711",
+        "State location": "IA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0926"
+    },
+    "6281": {
+        "Company Name": "ANALOG DEVICES INC",
+        "SIC": "3674",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "1028"
+    },
+    "63296": {
+        "Company Name": "MATTHEWS INTERNATIONAL CORP",
+        "SIC": "3360",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0930"
+    },
+    "64472": {
+        "Company Name": "GENCOR INDUSTRIES INC",
+        "SIC": "3531",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "65312": {
+        "Company Name": "EVI INDUSTRIES, INC.",
+        "SIC": "7200",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "67887": {
+        "Company Name": "MOOG INC.",
+        "SIC": "3590",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0930"
+    },
+    "69422": {
+        "Company Name": "INTERGROUP CORP",
+        "SIC": "6513",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "6951": {
+        "Company Name": "APPLIED MATERIALS INC /DE",
+        "SIC": "3674",
+        "State location": "CA",
+        "State of Inc": "DC",
+        "Fiscal Year End": "1029"
+    },
+    "6955": {
+        "Company Name": "ENERPAC TOOL GROUP CORP",
+        "SIC": "3590",
+        "State location": "WI",
+        "State of Inc": "WI",
+        "Fiscal Year End": "0831"
+    },
+    "70145": {
+        "Company Name": "NATIONAL FUEL GAS CO",
+        "SIC": "4924",
+        "State location": "NY",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0930"
+    },
+    "704172": {
+        "Company Name": "PHI GROUP INC",
+        "SIC": "8741",
+        "State location": "NV",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0630"
+    },
+    "711404": {
+        "Company Name": "COOPER COMPANIES, INC.",
+        "SIC": "3851",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "717954": {
+        "Company Name": "UNIFIRST CORP",
+        "SIC": "7200",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "0829"
+    },
+    "720005": {
+        "Company Name": "RAYMOND JAMES FINANCIAL INC",
+        "SIC": "6211",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0930"
+    },
+    "720154": {
+        "Company Name": "Inotiv, Inc.",
+        "SIC": "8731",
+        "State location": "IN",
+        "State of Inc": "IN",
+        "Fiscal Year End": "0930"
+    },
+    "720500": {
+        "Company Name": "AMTECH SYSTEMS INC",
+        "SIC": "3559",
+        "State location": "AZ",
+        "State of Inc": "AZ",
+        "Fiscal Year End": "0930"
+    },
+    "720762": {
+        "Company Name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+        "SIC": "3845",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0731"
+    },
+    "723125": {
+        "Company Name": "MICRON TECHNOLOGY INC",
+        "SIC": "3674",
+        "State location": "ID",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0829"
+    },
+    "72331": {
+        "Company Name": "NORDSON CORP",
+        "SIC": "3569",
+        "State location": "OH",
+        "State of Inc": "OH",
+        "Fiscal Year End": "1031"
+    },
+    "725363": {
+        "Company Name": "CEL SCI CORP",
+        "SIC": "2836",
+        "State location": "VA",
+        "State of Inc": "CO",
+        "Fiscal Year End": "0930"
+    },
+    "725394": {
+        "Company Name": "DALRADA FINANCIAL CORP",
+        "SIC": "7363",
+        "State location": "CA",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0630"
+    },
+    "72633": {
+        "Company Name": "NORTH EUROPEAN OIL ROYALTY TRUST",
+        "SIC": "6792",
+        "State location": "NH",
+        "State of Inc": "NH",
+        "Fiscal Year End": "1031"
+    },
+    "728447": {
+        "Company Name": "EVO Transportation & Energy Services, Inc.",
+        "SIC": "5500",
+        "State location": "AZ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "731802": {
+        "Company Name": "ATMOS ENERGY CORP",
+        "SIC": "4924",
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "0930"
+    },
+    "737758": {
+        "Company Name": "TORO CO",
+        "SIC": "3524",
+        "State location": "MN",
+        "State of Inc": "MN",
+        "Fiscal Year End": "1031"
+    },
+    "74046": {
+        "Company Name": "Oil-Dri Corp of America",
+        "SIC": "3990",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "744452": {
+        "Company Name": "APPLIED DNA SCIENCES INC",
+        "SIC": "8734",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "745543": {
+        "Company Name": "PETRO USA, INC.",
+        "SIC": "2834",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "754811": {
+        "Company Name": "U S GLOBAL INVESTORS INC",
+        "SIC": "6282",
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "0630"
+    },
+    "764401": {
+        "Company Name": "INSTEEL INDUSTRIES INC",
+        "SIC": "3310",
+        "State location": "NC",
+        "State of Inc": "NC",
+        "Fiscal Year End": "0930"
+    },
+    "771497": {
+        "Company Name": "ABM INDUSTRIES INC /DE/",
+        "SIC": "7340",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "772263": {
+        "Company Name": "NITCHES INC",
+        "SIC": "2330",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "773318": {
+        "Company Name": "VERITEC INC",
+        "SIC": "8741",
+        "State location": "MN",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "775057": {
+        "Company Name": "ALTEX INDUSTRIES INC",
+        "SIC": "1311",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "779544": {
+        "Company Name": "ARK RESTAURANTS CORP",
+        "SIC": "5812",
+        "State location": "NY",
+        "State of Inc": "NY",
+        "Fiscal Year End": "0928"
+    },
+    "783412": {
+        "Company Name": "DAILY JOURNAL CORP",
+        "SIC": "2711",
+        "State location": "CA",
+        "State of Inc": "SC",
+        "Fiscal Year End": "0930"
+    },
+    "784539": {
+        "Company Name": "EACO CORP",
+        "SIC": "5065",
+        "State location": "CA",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0831"
+    },
+    "785557": {
+        "Company Name": "DLH Holdings Corp.",
+        "SIC": "7363",
+        "State location": "GA",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0930"
+    },
+    "785786": {
+        "Company Name": "PLEXUS CORP",
+        "SIC": "3672",
+        "State location": "WI",
+        "State of Inc": "WI",
+        "Fiscal Year End": "0930"
+    },
+    "785956": {
+        "Company Name": "J&J SNACK FOODS CORP",
+        "SIC": "2052",
+        "State location": "NJ",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0924"
+    },
+    "788329": {
+        "Company Name": "JOHNSON OUTDOORS INC",
+        "SIC": "3949",
+        "State location": "WI",
+        "State of Inc": "WI",
+        "Fiscal Year End": "0929"
+    },
+    "788920": {
+        "Company Name": "PRO DEX INC",
+        "SIC": "3841",
+        "State location": "CA",
+        "State of Inc": null,
+        "Fiscal Year End": "0630"
+    },
+    "794170": {
+        "Company Name": "Toll Brothers, Inc.",
+        "SIC": "1531",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "796505": {
+        "Company Name": "Clearfield, Inc.",
+        "SIC": "3661",
+        "State location": "MN",
+        "State of Inc": "MN",
+        "Fiscal Year End": "0930"
+    },
+    "79661": {
+        "Company Name": "PORTSMOUTH SQUARE INC",
+        "SIC": "6552",
+        "State location": "CA",
+        "State of Inc": "CA",
+        "Fiscal Year End": "0630"
+    },
+    "80420": {
+        "Company Name": "POWELL INDUSTRIES INC",
+        "SIC": "3613",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "804328": {
+        "Company Name": "QUALCOMM INC/DE",
+        "SIC": "3663",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0924"
+    },
+    "807882": {
+        "Company Name": "JACK IN THE BOX INC",
+        "SIC": "5812",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1001"
+    },
+    "808326": {
+        "Company Name": "EMCORE CORP",
+        "SIC": "3674",
+        "State location": "CA",
+        "State of Inc": "NJ",
+        "Fiscal Year End": "0930"
+    },
+    "810136": {
+        "Company Name": "PHOTRONICS INC",
+        "SIC": "3674",
+        "State location": "CT",
+        "State of Inc": "CT",
+        "Fiscal Year End": "1031"
+    },
+    "814547": {
+        "Company Name": "FAIR ISAAC CORP",
+        "SIC": "7389",
+        "State location": "MT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "823277": {
+        "Company Name": "CHS INC",
+        "SIC": "5150",
+        "State location": "MN",
+        "State of Inc": "MN",
+        "Fiscal Year End": "0831"
+    },
+    "825324": {
+        "Company Name": "Good Times Restaurants Inc.",
+        "SIC": "5812",
+        "State location": "CO",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0926"
+    },
+    "825542": {
+        "Company Name": "SCOTTS MIRACLE-GRO CO",
+        "SIC": "2870",
+        "State location": "OH",
+        "State of Inc": "OH",
+        "Fiscal Year End": "0930"
+    },
+    "827876": {
+        "Company Name": "CLEANSPARK, INC.",
+        "SIC": "6199",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "829224": {
+        "Company Name": "STARBUCKS CORP",
+        "SIC": "5810",
+        "State location": "WA",
+        "State of Inc": "WA",
+        "Fiscal Year End": "0927"
+    },
+    "830524": {
+        "Company Name": "CHASE CORP",
+        "SIC": "3640",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "0831"
+    },
+    "831641": {
+        "Company Name": "TETRA TECH INC",
+        "SIC": "8711",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1001"
+    },
+    "833444": {
+        "Company Name": "Johnson Controls International plc",
+        "SIC": "3585",
+        "State location": "L2",
+        "State of Inc": "L2",
+        "Fiscal Year End": "0930"
+    },
+    "836157": {
+        "Company Name": "LINDSAY CORP",
+        "SIC": "3523",
+        "State location": "NE",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "854775": {
+        "Company Name": "DIGI INTERNATIONAL INC",
+        "SIC": "3576",
+        "State location": "MN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "857005": {
+        "Company Name": "PTC INC.",
+        "SIC": "7372",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "0930"
+    },
+    "857949": {
+        "Company Name": "China Green Agriculture, Inc.",
+        "SIC": "2870",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "858655": {
+        "Company Name": "HAYNES INTERNATIONAL INC",
+        "SIC": "3310",
+        "State location": "IN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "859737": {
+        "Company Name": "HOLOGIC INC",
+        "SIC": "3844",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0928"
+    },
+    "862668": {
+        "Company Name": "ESCALON MEDICAL CORP",
+        "SIC": "3845",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0630"
+    },
+    "863894": {
+        "Company Name": "VERU INC.",
+        "SIC": "2834",
+        "State location": "FL",
+        "State of Inc": "WI",
+        "Fiscal Year End": "0930"
+    },
+    "866706": {
+        "Company Name": "ESCO TECHNOLOGIES INC",
+        "SIC": "3669",
+        "State location": "MO",
+        "State of Inc": "MO",
+        "Fiscal Year End": "0930"
+    },
+    "866787": {
+        "Company Name": "AUTOZONE INC",
+        "SIC": "5531",
+        "State location": "TN",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "868857": {
+        "Company Name": "AECOM",
+        "SIC": "8711",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "875582": {
+        "Company Name": "NORTHERN TECHNOLOGIES INTERNATIONAL CORP",
+        "SIC": "3470",
+        "State location": "MN",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "876523": {
+        "Company Name": "EZCORP INC",
+        "SIC": "5900",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "879407": {
+        "Company Name": "ARROWHEAD PHARMACEUTICALS, INC.",
+        "SIC": "2834",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "882184": {
+        "Company Name": "HORTON D R INC /DE/",
+        "SIC": "1531",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "883241": {
+        "Company Name": "SYNOPSYS INC",
+        "SIC": "7372",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "884614": {
+        "Company Name": "UGI CORP /PA/",
+        "SIC": "4932",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0930"
+    },
+    "885307": {
+        "Company Name": "JEWETT CAMERON TRADING CO LTD",
+        "SIC": "5211",
+        "State location": "OR",
+        "State of Inc": "OR",
+        "Fiscal Year End": "0831"
+    },
+    "886128": {
+        "Company Name": "FUELCELL ENERGY INC",
+        "SIC": "3620",
+        "State location": "CT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1031"
+    },
+    "886206": {
+        "Company Name": "FRANKLIN COVEY CO",
+        "SIC": "8741",
+        "State location": "UT",
+        "State of Inc": "UT",
+        "Fiscal Year End": "0831"
+    },
+    "887733": {
+        "Company Name": "CENTRAL GARDEN & PET CO",
+        "SIC": "5190",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "889353": {
+        "Company Name": "James Maritime Holdings Inc.",
+        "SIC": "7200",
+        "State location": "UT",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "897723": {
+        "Company Name": "SANMINA CORP",
+        "SIC": "3672",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0928"
+    },
+    "898293": {
+        "Company Name": "JABIL INC",
+        "SIC": "3672",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "907471": {
+        "Company Name": "PATHWARD FINANCIAL, INC.",
+        "SIC": "6021",
+        "State location": "SD",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "909832": {
+        "Company Name": "COSTCO WHOLESALE CORP /NEW",
+        "SIC": "5331",
+        "State location": "WA",
+        "State of Inc": "WA",
+        "Fiscal Year End": "0903"
+    },
+    "912603": {
+        "Company Name": "SCHNITZER STEEL INDUSTRIES, INC.",
+        "SIC": "5090",
+        "State location": "OR",
+        "State of Inc": "OR",
+        "Fiscal Year End": "0831"
+    },
+    "913760": {
+        "Company Name": "StoneX Group Inc.",
+        "SIC": "6200",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "914712": {
+        "Company Name": "Steel Connect, Inc.",
+        "SIC": "7389",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "915840": {
+        "Company Name": "BEAZER HOMES USA INC",
+        "SIC": "1531",
+        "State location": "GA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "923120": {
+        "Company Name": "GREENBRIER COMPANIES INC",
+        "SIC": "3743",
+        "State location": "OR",
+        "State of Inc": "OR",
+        "Fiscal Year End": "0831"
+    },
+    "924095": {
+        "Company Name": "Metavesco, Inc.",
+        "SIC": "6199",
+        "State location": "VA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "924383": {
+        "Company Name": "Genasys Inc.",
+        "SIC": "3651",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "924396": {
+        "Company Name": "OpenLocker Holdings, Inc.",
+        "SIC": "6199",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0731"
+    },
+    "924717": {
+        "Company Name": "SURMODICS INC",
+        "SIC": "3841",
+        "State location": "MN",
+        "State of Inc": "MN",
+        "Fiscal Year End": "0930"
+    },
+    "928465": {
+        "Company Name": "AMCON DISTRIBUTING CO",
+        "SIC": "5141",
+        "State location": "NE",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "932021": {
+        "Company Name": "GLOBAL TECHNOLOGIES LTD",
+        "SIC": "3663",
+        "State location": "NJ",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "933974": {
+        "Company Name": "Azenta, Inc.",
+        "SIC": "3559",
+        "State location": "MA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "935419": {
+        "Company Name": "RCI HOSPITALITY HOLDINGS, INC.",
+        "SIC": "5812",
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "0930"
+    },
+    "936395": {
+        "Company Name": "CIENA CORP",
+        "SIC": "3661",
+        "State location": "MD",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1028"
+    },
+    "936528": {
+        "Company Name": "WAFD INC",
+        "SIC": "6021",
+        "State location": "WA",
+        "State of Inc": "WA",
+        "Fiscal Year End": "0930"
+    },
+    "1005276": {
+        "Company Name": "MOHEGAN TRIBAL GAMING AUTHORITY",
+        "SIC": "7011",
+        "State location": "CT",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1029744": {
+        "Company Name": "SONIC FOUNDRY INC",
+        "SIC": "3663",
+        "State location": "WI",
+        "State of Inc": "MD",
+        "Fiscal Year End": "0930"
+    },
+    "1067873": {
+        "Company Name": "AS-IP TECH INC",
+        "SIC": "3728",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1073748": {
+        "Company Name": "YUMMIES INC",
+        "SIC": "6770",
+        "State location": "UT",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1106861": {
+        "Company Name": "FLASHZERO CORP.",
+        "SIC": "7372",
+        "State location": "2M",
+        "State of Inc": "WY",
+        "Fiscal Year End": "1231"
+    },
+    "1133470": {
+        "Company Name": "CALAVO GROWERS INC",
+        "SIC": "0700",
+        "State location": "CA",
+        "State of Inc": "CA",
+        "Fiscal Year End": "1031"
+    },
+    "1160951": {
+        "Company Name": "DUCK CREEK TECHNOLOGIES, INC.",
+        "SIC": "7372",
+        "State location": "MA",
+        "State of Inc": null,
+        "Fiscal Year End": "0831"
+    },
+    "1173281": {
+        "Company Name": "NeuBase Therapeutics, Inc.",
+        "SIC": "2834",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1231339": {
+        "Company Name": "Astra Energy, Inc.",
+        "SIC": "4911",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1286459": {
+        "Company Name": "ALL FOR ONE MEDIA CORP.",
+        "SIC": "7900",
+        "State location": "NY",
+        "State of Inc": "UT",
+        "Fiscal Year End": "0930"
+    },
+    "1288750": {
+        "Company Name": "Timberline Resources Corp",
+        "SIC": "1040",
+        "State location": "ID",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1318641": {
+        "Company Name": "Statera Biopharma, Inc.",
+        "SIC": "2834",
+        "State location": "CO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1341726": {
+        "Company Name": "GULFSLOPE ENERGY, INC.",
+        "SIC": "1311",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1342792": {
+        "Company Name": "WORLDWIDE STRATEGIES INC",
+        "SIC": "7372",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1357971": {
+        "Company Name": "Energy Services of America CORP",
+        "SIC": "1623",
+        "State location": "WV",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1362703": {
+        "Company Name": "THERALINK TECHNOLOGIES, INC.",
+        "SIC": "2834",
+        "State location": "LA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1368275": {
+        "Company Name": "W&E Source Corp.",
+        "SIC": "4700",
+        "State location": "A8",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1368637": {
+        "Company Name": "Petrolia Energy Corp",
+        "SIC": "1311",
+        "State location": "TX",
+        "State of Inc": "TX",
+        "Fiscal Year End": "1231"
+    },
+    "1374328": {
+        "Company Name": "FITLIFE BRANDS, INC.",
+        "SIC": "2833",
+        "State location": "NE",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1387998": {
+        "Company Name": "Snoogoo Corp.",
+        "SIC": "1000",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1404935": {
+        "Company Name": "THC Therapeutics, Inc.",
+        "SIC": "3523",
+        "State location": "NV",
+        "State of Inc": null,
+        "Fiscal Year End": "0731"
+    },
+    "1420720": {
+        "Company Name": "iBio, Inc.",
+        "SIC": "2834",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1424844": {
+        "Company Name": "SOUTHWEST IOWA RENEWABLE ENERGY, LLC",
+        "SIC": "2860",
+        "State location": "IA",
+        "State of Inc": "IA",
+        "Fiscal Year End": "0930"
+    },
+    "1427644": {
+        "Company Name": "Telco Cuba, Inc.",
+        "SIC": "4813",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1130"
+    },
+    "1435387": {
+        "Company Name": "Discovery Energy Corp.",
+        "SIC": "1382",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0228"
+    },
+    "1437750": {
+        "Company Name": "T-REX Acquisition Corp.",
+        "SIC": "6199",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1439237": {
+        "Company Name": "Quality Online Education Group Inc.",
+        "SIC": "8700",
+        "State location": "A6",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1440153": {
+        "Company Name": "Bakhu Holdings, Corp.",
+        "SIC": "6794",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1444307": {
+        "Company Name": "ONCOSEC MEDICAL Inc",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1452804": {
+        "Company Name": "Retrieve Medical Holdings, Inc.",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1467845": {
+        "Company Name": "Kashin, Inc.",
+        "SIC": "8200",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0430"
+    },
+    "1473490": {
+        "Company Name": "Global AI, Inc.",
+        "SIC": "5960",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1481028": {
+        "Company Name": "SUNHYDROGEN, INC.",
+        "SIC": "3674",
+        "State location": "IA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1492617": {
+        "Company Name": "FLYWHEEL ADVANCED TECHNOLOGY, INC.",
+        "SIC": "7380",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1502557": {
+        "Company Name": "Kun Peng International Ltd.",
+        "SIC": "8200",
+        "State location": "F4",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1504239": {
+        "Company Name": "Point of Care Nano-Technology, Inc.",
+        "SIC": "2836",
+        "State location": "FL",
+        "State of Inc": null,
+        "Fiscal Year End": "0731"
+    },
+    "1523486": {
+        "Company Name": "MOJO DATA SOLUTIONS, INC.",
+        "SIC": "5400",
+        "State location": "TX",
+        "State of Inc": "PR",
+        "Fiscal Year End": "1231"
+    },
+    "1524872": {
+        "Company Name": "Thunder Energies Corp",
+        "SIC": "3559",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "1231"
+    },
+    "1527613": {
+        "Company Name": "NuZee, Inc.",
+        "SIC": "5900",
+        "State location": "TX",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1536089": {
+        "Company Name": "VIRTUAL INTERACTIVE TECHNOLOGIES CORP.",
+        "SIC": "7372",
+        "State location": "CO",
+        "State of Inc": "CO",
+        "Fiscal Year End": "0930"
+    },
+    "1537561": {
+        "Company Name": "Arch Therapeutics, Inc.",
+        "SIC": "3841",
+        "State location": "MA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1538217": {
+        "Company Name": "SRAX, Inc.",
+        "SIC": "7311",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1539778": {
+        "Company Name": "RAYONT INC.",
+        "SIC": "8090",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1550603": {
+        "Company Name": "MALVERN BANCORP, INC.",
+        "SIC": "6035",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0930"
+    },
+    "1594114": {
+        "Company Name": "ZHRH Corp",
+        "SIC": "5020",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1598308": {
+        "Company Name": "Global Wholehealth Partners Corp",
+        "SIC": "2835",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1602813": {
+        "Company Name": "FRONTERA GROUP INC.",
+        "SIC": "8742",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1604643": {
+        "Company Name": "Evoqua Water Technologies Corp.",
+        "SIC": "3580",
+        "State location": "PA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1610718": {
+        "Company Name": "Outdoor Specialty Products, Inc.",
+        "SIC": "3949",
+        "State location": "UT",
+        "State of Inc": "UT",
+        "Fiscal Year End": "0930"
+    },
+    "1627041": {
+        "Company Name": "VISIBER57 CORP.",
+        "SIC": "7372",
+        "State location": "F5",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0831"
+    },
+    "1629205": {
+        "Company Name": "Innovation1 Biotech Inc.",
+        "SIC": "2834",
+        "State location": "NJ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1629210": {
+        "Company Name": "Paramount Gold Nevada Corp.",
+        "SIC": "1000",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1650739": {
+        "Company Name": "Ajia Innogroup Holdings, Ltd.",
+        "SIC": "7200",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1658520": {
+        "Company Name": "OS Support, Inc.",
+        "SIC": "7371",
+        "State location": "K7",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1659207": {
+        "Company Name": "Fellazo Corp",
+        "SIC": "2750",
+        "State location": "N8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1668523": {
+        "Company Name": "GSG GROUP INC.",
+        "SIC": "2750",
+        "State location": "P7",
+        "State of Inc": null,
+        "Fiscal Year End": "1231"
+    },
+    "1676163": {
+        "Company Name": "SS Innovations International, Inc.",
+        "SIC": "3841",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "1231"
+    },
+    "1676852": {
+        "Company Name": "OMNIA WELLNESS INC.",
+        "SIC": "3841",
+        "State location": "NY",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0331"
+    },
+    "1678105": {
+        "Company Name": "Caro Holdings Inc.",
+        "SIC": "5961",
+        "State location": "X0",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0331"
+    },
+    "1680132": {
+        "Company Name": "CANNABIS SUISSE CORP.",
+        "SIC": "2600",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0531"
+    },
+    "1680237": {
+        "Company Name": "China King Spirit Group Ltd.",
+        "SIC": "2400",
+        "State location": "CA",
+        "State of Inc": "CO",
+        "Fiscal Year End": "0630"
+    },
+    "1683131": {
+        "Company Name": "Forza Innovations Inc",
+        "SIC": "3442",
+        "State location": "CA",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0630"
+    },
+    "1715433": {
+        "Company Name": "Leader Capital Holdings Corp.",
+        "SIC": "7371",
+        "State location": "F5",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1744179": {
+        "Company Name": "Oaktree Strategic Income II, Inc.",
+        "SIC": null,
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1746214": {
+        "Company Name": "BIOPLUS LIFE CORP.",
+        "SIC": "5912",
+        "State location": "N8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1753931": {
+        "Company Name": "Shengda Network Technology, Inc.",
+        "SIC": "7371",
+        "State location": "F4",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1784440": {
+        "Company Name": "Nowtransit Inc",
+        "SIC": "7374",
+        "State location": "UT",
+        "State of Inc": "NV",
+        "Fiscal Year End": "1231"
+    },
+    "1787123": {
+        "Company Name": "QLY Biotech Group Corp.",
+        "SIC": "4700",
+        "State location": "G8",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0831"
+    },
+    "1815632": {
+        "Company Name": "Tego Cyber, Inc.",
+        "SIC": "7370",
+        "State location": "NV",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1827855": {
+        "Company Name": "Medicale Corp.",
+        "SIC": "8000",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "1829426": {
+        "Company Name": "Far Peak Acquisition Corp",
+        "SIC": "6199",
+        "State location": "NY",
+        "State of Inc": null,
+        "Fiscal Year End": "0930"
+    },
+    "1832161": {
+        "Company Name": "KeyStar Corp.",
+        "SIC": "5900",
+        "State location": "FL",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0630"
+    },
+    "1832511": {
+        "Company Name": "P3 Health Partners Inc.",
+        "SIC": "8000",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "1835814": {
+        "Company Name": "Northern Star Investment Corp. IV",
+        "SIC": "6770",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1835817": {
+        "Company Name": "Northern Star Investment Corp. III",
+        "SIC": "6770",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1842167": {
+        "Company Name": "Limitless Projects Inc.",
+        "SIC": "7389",
+        "State location": "WY",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0731"
+    },
+    "1844519": {
+        "Company Name": "Drax, Industries Inc.",
+        "SIC": "3533",
+        "State location": "CA",
+        "State of Inc": "WY",
+        "Fiscal Year End": "1231"
+    },
+    "1853314": {
+        "Company Name": "Gesher I Acquisition Corp.",
+        "SIC": "6770",
+        "State location": "E9",
+        "State of Inc": "E9",
+        "Fiscal Year End": "0930"
+    },
+    "1857951": {
+        "Company Name": "Weber Inc.",
+        "SIC": "3630",
+        "State location": "IL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1860173": {
+        "Company Name": "Privacy & Value Inc.",
+        "SIC": "7371",
+        "State location": "NV",
+        "State of Inc": "WY",
+        "Fiscal Year End": "0731"
+    },
+    "1865468": {
+        "Company Name": "Kairous Acquisition Corp. Ltd",
+        "SIC": "6770",
+        "State location": "U0",
+        "State of Inc": "E9",
+        "Fiscal Year End": "0630"
+    },
+    "1874440": {
+        "Company Name": "Victoria Lake, Inc.",
+        "SIC": "6770",
+        "State location": "UT",
+        "State of Inc": "OK",
+        "Fiscal Year End": "0531"
+    },
+    "1874999": {
+        "Company Name": "AG Acquisition Group III, Inc.",
+        "SIC": "6770",
+        "State location": "FL",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "1875746": {
+        "Company Name": "Entertainment Holdings, Inc./OK",
+        "SIC": "6770",
+        "State location": "UT",
+        "State of Inc": "OK",
+        "Fiscal Year End": "0630"
+    },
+    "1875943": {
+        "Company Name": "VMG Consumer Acquisition Corp.",
+        "SIC": "6770",
+        "State location": "CA",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0930"
+    },
+    "1879293": {
+        "Company Name": "Mag Mile Capital, Inc.",
+        "SIC": "3567",
+        "State location": "UT",
+        "State of Inc": "OK",
+        "Fiscal Year End": "1231"
+    },
+    "1883083": {
+        "Company Name": "GPL Holdings, Inc.",
+        "SIC": "6770",
+        "State location": "CA",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0731"
+    },
+    "1883799": {
+        "Company Name": "Jupiter Wellness Acquisition Corp.",
+        "SIC": "6770",
+        "State location": "FL",
+        "State of Inc": "E9",
+        "Fiscal Year End": "0930"
+    },
+    "1905956": {
+        "Company Name": "TREASURE GLOBAL INC",
+        "SIC": "7389",
+        "State location": "NY",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "315131": {
+        "Company Name": "PHX MINERALS INC.",
+        "SIC": "1311",
+        "State location": "TX",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "790273": {
+        "Company Name": "CONECTISYS CORP",
+        "SIC": "3663",
+        "State location": "WA",
+        "State of Inc": "CO",
+        "Fiscal Year End": "1231"
+    },
+    "790652": {
+        "Company Name": "IMAGING DIAGNOSTIC SYSTEMS INC /FL/",
+        "SIC": "3845",
+        "State location": "FL",
+        "State of Inc": "FL",
+        "Fiscal Year End": "0630"
+    },
+    "794172": {
+        "Company Name": "MERIDIAN BIOSCIENCE INC",
+        "SIC": "2835",
+        "State location": "OH",
+        "State of Inc": "OH",
+        "Fiscal Year End": "0930"
+    },
+    "810332": {
+        "Company Name": "MESA AIR GROUP INC",
+        "SIC": "4512",
+        "State location": "AZ",
+        "State of Inc": "NV",
+        "Fiscal Year End": "0930"
+    },
+    "811222": {
+        "Company Name": "Cardiff Lexington Corp",
+        "SIC": "8011",
+        "State location": "NV",
+        "State of Inc": "FL",
+        "Fiscal Year End": "1231"
+    },
+    "831489": {
+        "Company Name": "SCORES HOLDING CO INC",
+        "SIC": "7900",
+        "State location": "NY",
+        "State of Inc": "UT",
+        "Fiscal Year End": "1231"
+    },
+    "834285": {
+        "Company Name": "REPUBLIC FIRST BANCORP INC",
+        "SIC": "6022",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "1231"
+    },
+    "836690": {
+        "Company Name": "INNOVATIVE SOLUTIONS & SUPPORT INC",
+        "SIC": "7371",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0930"
+    },
+    "851726": {
+        "Company Name": "Santa Fe Gold CORP",
+        "SIC": "1000",
+        "State location": "NM",
+        "State of Inc": "AZ",
+        "Fiscal Year End": "0630"
+    },
+    "866273": {
+        "Company Name": "MATRIX SERVICE CO",
+        "SIC": "1700",
+        "State location": "OK",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "874710": {
+        "Company Name": "ALLIED HEALTHCARE PRODUCTS INC",
+        "SIC": "3842",
+        "State location": "MO",
+        "State of Inc": "DE",
+        "Fiscal Year End": "0630"
+    },
+    "896429": {
+        "Company Name": "CANTALOUPE, INC.",
+        "SIC": "3578",
+        "State location": "PA",
+        "State of Inc": "PA",
+        "Fiscal Year End": "0630"
+    },
+    "90168": {
+        "Company Name": "SIFCO INDUSTRIES INC",
+        "SIC": "3724",
+        "State location": "OH",
+        "State of Inc": "OH",
+        "Fiscal Year End": "0930"
+    },
+    "922612": {
+        "Company Name": "SCHMITT INDUSTRIES INC",
+        "SIC": "3823",
+        "State location": "OR",
+        "State of Inc": "OR",
+        "Fiscal Year End": "0531"
+    },
+    "934796": {
+        "Company Name": "NETWORK CN INC",
+        "SIC": "7310",
+        "State location": "K3",
+        "State of Inc": "DE",
+        "Fiscal Year End": "1231"
+    },
+    "96699": {
+        "Company Name": "TECHNICAL COMMUNICATIONS CORP",
+        "SIC": "3663",
+        "State location": "MA",
+        "State of Inc": "MA",
+        "Fiscal Year End": "0924"
+    }
+}
