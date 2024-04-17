@@ -86,3 +86,8 @@
  'WALMART_2019_10K': 'https://d18rn0p25nwr6d.cloudfront.net/CIK-0000104169/b23b2787-eb44-4e0b-82bd-fca01f140a3e.pdf',
  'WALMART_2020_10K': 'https://d18rn0p25nwr6d.cloudfront.net/CIK-0000104169/af5415d9-0e07-4ba1-a6cc-bb3058a7f4e8.pdf'}
  ```
+
+ **except:** 
+ ```python
+ 'BESTBUY_2024Q2_10Q': 'https://d18rn0p25nwr6d.cloudfront.net/CIK-0000764478/5e179976-086d-4c3c-af0c-85fda4b35b9d.pdf'
+ ```
