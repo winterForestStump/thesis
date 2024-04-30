@@ -34,43 +34,34 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
 
 ### experiments board
 [Experiments Board](https://whimsical.com/thesis-experiments-UDsNTrQfqfqMduUfbus1d8)
-
 [LangChain Smith projects](https://smith.langchain.com/o/7a22f395-21ae-54fe-a44d-3212a54e04ee/projects?paginationState=%7B%22pageIndex%22%3A0%2C%22pageSize%22%3A10%7D&chartedColumn=latency_p50)
 
 ### datasets
-1. [scraped 10-k filings, extracted by my own](data). Plain text, refine is needed. The same dataset on [Hugging Face Hub](https://huggingface.co/datasets/winterForestStump/10k_SEC_10examples_text_corpus)
-2. [EDGAR-CORPUS](https://zenodo.org/records/5528490). Annual reports from 1993 to 2020 splited into their corresponding items (sections), and provided in a clean, easy-to-use JSON format. [Link to HF dataset](https://huggingface.co/datasets/eloukas/edgar-corpus) and [edgar-crawler github repository](https://github.com/nlpaueb/edgar-crawler)
-3. [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
+* modified [edgar-crawler](https://github.com/nlpaueb/edgar-crawler) code to download and extract reports from the [FINANCEBENCH](https://arxiv.org/pdf/2311.11944.pdf) 150 questions dataset. 
 
 ### questions
-We have prepared a list of [42 questions](questions.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
+* prepared list of [35 questions](questions/questions_ver2.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
 
 ### models / frameworks / databases
-1. [TheBloke/Llama-2-13B-chat-GGUF model](https://huggingface.co/TheBloke/Llama-2-13B-chat-GGUF)
-2. [Yukang/Llama-2-7b-longlora-100k-ft model](https://huggingface.co/Yukang/Llama-2-7b-longlora-100k-ft), [github](https://osu-nlp-group.github.io/TableLlama/), [github](https://github.com/dvlab-research/LongLoRA)
-3. [FinGPT model](https://github.com/AI4Finance-Foundation/FinGPT), [FinGPT/fingpt-mt_llama2-7b_lora on Hugging Face](https://huggingface.co/FinGPT/fingpt-mt_llama2-7b_lora)
-4. [ChromaDB](https://github.com/chroma-core/chroma)
-5. [LangChain Retrieval](https://python.langchain.com/docs/use_cases/question_answering/)
-6. [SentenceTransformers](https://www.sbert.net/). for embedding, [models on HF](https://huggingface.co/sentence-transformers)
-7. [Self-RAG](https://github.com/AkariAsai/self-rag)
-8. [Pyserini toolkit](https://github.com/castorini/pyserini), for reproducible information retrieval research with sparse and dense representations
-9. [Fine-Tuning Embedding for RAG with Synthetic Data](https://github.com/run-llama/finetune-embedding/tree/main?tab=readme-ov-file)
-10. [argilla.io: Open-source Fine-tuning Data Platform for LLMs](https://argilla.io/)
-11. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+1. [TheBloke/Llama-2-7B-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ)
+2. [GPTQ paper](https://arxiv.org/pdf/2210.17323)
+3. [ChromaDB](https://github.com/chroma-core/chroma)
+4. [LangChain Retrieval](https://python.langchain.com/docs/modules/data_connection/)
+5. [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
+6. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 ### evaluation
-1. Human evaluation with comparison to ChatGPT answers and retrived answers from Kay x Cybersyn x LangChain API
+1. Human evaluation
 2. [Ragas](https://docs.ragas.io/en/latest/index.html)
-3. [DeepEval](https://github.com/confident-ai/deepeval)
-4. [Tonic Validate](https://docs.llamaindex.ai/en/stable/community/integrations/tonicvalidate.html)
-5. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
-6. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
-7. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
-8. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
-9. Patronus AI. FINANCEBENCH: A New Benchmark for Financial Question Answering [paper](https://arxiv.org/pdf/2311.11944.pdf). PatronusAI Enterprise Scenarios [leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard) evaluates the performance of language models on real-world enterprise use cases. It provides 6 benchmarks that cover diverse tasks.
+3. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
+4. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
+5. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
+6. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
+7. PatronusAI Enterprise Scenarios [leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard)
 
 
 ### additional literature
+* [Kay x Cybersyn x LangChain](https://python.langchain.com/docs/integrations/retrievers/sec_filings?ref=blog.langchain.dev). API retriver of SEC filings (can be used for evaluation)
 * [Anyscale. Numbers every LLM Developer should know](https://www.anyscale.com/blog/num-every-llm-developer-should-know)
 * [Anyscale. Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 * [Anyscale. Using LoRa for fine-tuning Llama 2](https://www.anyscale.com/blog/fine-tuning-llms-lora-or-full-parameter-an-in-depth-analysis-with-llama-2?ref=hackernoon.com)
