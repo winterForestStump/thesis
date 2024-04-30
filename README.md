@@ -49,6 +49,10 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
 4. [LangChain Retrieval](https://python.langchain.com/docs/modules/data_connection/)
 5. [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
 6. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+7. [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
+------------
+8. [bartowski/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q5_K_M.gguf](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF)
+9.[FlagEmbedding Reranker](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_reranker)
 
 ### evaluation
 1. Human evaluation
