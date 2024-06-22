@@ -1,8 +1,6 @@
 # Evaluation
 
-
-
-RAGs have become the standard architecture for providing LLMs with context in order to avoid hallucinations. However even RAGs can suffer from hallucination, as is often the case when the retrieval fails to retrieve sufficient context or even retrieves irrelevant context that is then weaved into the LLM’s response. Just like in any machine learning system, the performance of individual components within the LLM and RAG pipeline has a significant impact on the overall experience. [Ragas](https://github.com/explodinggradients/ragas) offers metrics tailored for evaluating each component of your RAG pipeline in isolation.
+RAGs have become the standard architecture for providing LLMs with context in order to avoid hallucinations. However even RAGs can suffer from hallucination, as is often the case when the retrieval fails to retrieve sufficient context or even retrieves irrelevant context that is then weaved into the LLM’s response. Just like in any machine learning system, the performance of individual components within the LLM and RAG pipeline has a significant impact on the overall experience.
 
 ### Retrieval part of the pipeline:
 
