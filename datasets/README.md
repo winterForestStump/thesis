@@ -90,4 +90,5 @@
  **except:** 
  ```python
  'BESTBUY_2024Q2_10Q': 'https://d18rn0p25nwr6d.cloudfront.net/CIK-0000764478/5e179976-086d-4c3c-af0c-85fda4b35b9d.pdf'
+ 'PEPSICO_2023_8K_dated-2023-05-05': 'https://pepsico.gcs-web.com/static-files/718629be-2463-4b54-bba3-5e0e776e7d0c'
  ```
