@@ -1,0 +1,53 @@
+\section{Introduction}
+Natural Language Processing (NLP) technologies have significantly transformed various industries, with the finance sector being one of the primary beneficiaries. These technologies streamline complex tasks, automate customer services, and enhance decision-making processes, making them indispensable in the modern financial landscape. At the forefront of this transformation are Large Language Models (LLMs) such as GPT-4 \cite{OpenAI.15Mar2023}, which represent a cutting-edge advancement in artificial intelligence, offering extensive capabilities to analyze and interpret vast amounts of unstructured financial data quickly and effectively.
+
+Corporate reports, especially those like the SEC Form 10-K \cite{SECOfficeofInvestorEducationandAdvocacy.2021} filings, are critical documents for financial decision-making. They provide comprehensive information about a company's financial health and operational dynamics. However, these reports are often lengthy and complex, posing significant challenges for document processing and information extraction. This thesis aims to develop a method leveraging LLMs and Retrieval-Augmented Generation (RAG) to facilitate the easy reading and understanding of these financial reports.
+
+Despite their potential, the practical application of LLMs in finance faces substantial challenges. One of the primary concerns is their tendency for hallucination \cite{Huang.9Nov2023}, where the model might generate plausible but factually incorrect information. This is particularly problematic in finance, where accuracy and reliability are paramount. Additionally, the high cost of continuously updating these models to keep pace with the rapidly changing financial landscape poses another significant obstacle.
+
+Moreover, enhancing LLMs with factual knowledge remains an ongoing challenge. The demand for precise and up-to-date information is critical in finance, and the static nature of trained models often clashes with the dynamic financial environment. To address these issues, the development of hybrid models that combine the generative power of LLMs with real-time, verified data sources could be a potential solution. This integration would leverage the strengths of LLMs in understanding and processing language while ensuring the accuracy and reliability required in financial applications.
+
+This thesis focuses on developing a Retrieval-Augmented Generation (RAG) system to facilitate the understanding of financial annual reports. By integrating LLMs with retrieval of recent information, the proposed system aims to provide accurate and contextually relevant responses to user queries \cite{Gao.18Dec2023}. The thesis emphasizes using open-source libraries, frameworks, and language models to develop a RAG system that can run locally on a user's work computer. This approach democratizes and popularizes the use of modern LLMs achievements.
+
+The primary research questions guiding this thesis are:
+\begin{enumerate}
+\item How can open-source utilities (libraries and models) be effectively combined with information retrieval to enhance the question-answering and understanding of financial reports?
+\item What are the results of the RAG pipeline with using open-source utilities on real-life finance domain specific questions?
+\end{enumerate}
+
+To address these questions, the study adopts the following methodology:
+\begin{enumerate}
+\item A comprehensive review of existing research and theoretical foundation on embeddings, LLMs, vectore storage, RAG systems, and their applications. 
+\item Using open-source LLMs and frameworks to develop a RAG system that can process and analyze financial reports. The system will be designed to run locally (without using any API calls), ensuring cost-effectiveness.
+\item Conducting experiments to assess the quality of the system's responses to real  financial queries. This includes testing the system on questions of varying complexity and specificity, as well as manual evaluation of its accuracy.
+\end{enumerate}
+
+Using LLM solutions in finance can be done through two main options: utilizing an API from LLM service providers or employing open-source LLMs. Companies like OpenAI, Google, and Microsoft offer LLM services through APIs, providing base language model capabilities with additional features tailored for specific use cases. For example, OpenAI’s APIs\footnote{\url{https://openai.com/index/openai-api/}} include functionalities for chat, SQL generation, code completion, and code interpretation. While there is no dedicated LLM service exclusively designed for finance applications, leveraging these general-purpose LLM services can be a viable option for common tasks.
+
+Unlike using APIs, hosting and running open-source models require self-hosting. Similar to using LLM APIs, zero-shot or few-shot learning approaches can be employed with open-source models. Utilizing open-source models offers greater flexibility, as the model’s weights are accessible, and the model’s output can be customized for downstream tasks. Additionally, it provides better privacy protection as the model and data remain under the user’s control. However, working with open-source models also has its drawbacks. Reported evaluation metrics suggest a performance gap between open-source models and proprietary models \cite{Zhao.31Mar2023}. For certain downstream tasks, open-sourced models may not yield optimal performance.
+
+One of the critical challenges in enhancing LLMs with factual knowledge is the need for precise and up-to-date information. Financial markets move rapidly, and developers need to leverage RAG to equip LLMs with current knowledge. Moreover, SEC filings are hard to index by search engines due to their data formats. Indexing is the process by which search engines (like Google or Microsoft Bing) collect, parse, and store data to make it quickly retrievable in response to a search query. For a document to be easily indexed, its content needs to be in a format that the search engine can easily read and understand. SEC filings are often submitted in complex and varied formats \cite{Zhang.18Feb2023}. Historically, these have included plain text, HTML, and even image formats. More recently, filings might use XBRL (eXtensible Business Reporting Language), a specialized format for business information. While XBRL is very useful for financial analysis, it can be complicated for search engines to parse correctly.
+
+Moreover, financial documents are complex themselves and require careful processing and chunking of data. Developers need to experiment with different ways of transforming tables, determining relevant entities, and linking them to parent sections \cite{Zhang.18Feb2023}. There's a low tolerance for false positives in retrieving these documents since these numbers directly influence important decisions.
+
+The infrastructure for RAG is evolving rapidly, with developers inundated with choices. There are over 15 vector stores\footnote{\url{https://db-engines.com/en/ranking/vector+dbms}} to choose from, some relational database management systems also provide vector storage capabilities, and an ever-changing list of embedding models on the MTEB Leaderboard\footnote{\url{https://huggingface.co/spaces/mteb/leaderboard}}. New ways to embed and retrieve information emerge constantly.
+
+Using a locally running open-source LLM instead of relying on an API for retrieval tasks to extract information from text offers several advantages:
+\begin{enumerate}
+\item Relying on an API for large-scale text processing can result in substantial costs, especially as usage increases. Running an open-source LLM locally eliminates the need to pay for API calls, making it a cost-effective solution for companies with high-volume text processing needs.
+\item Users can scale their local infrastructure based on their specific requirements without being constrained by API usage limits or facing unexpected costs associated with increased usage. This flexibility allows for better cost management and resource optimization.
+\item Open-source LLMs often allow for fine-tuning on custom datasets, enabling companies to tailor the model to their specific domain or industry. This customization can lead to improved performance on tasks relevant to the unique requirements.
+\end{enumerate}
+
+The application of LLMs in finance holds immense promise, addressing tasks like fraud detection, financial sentiment analysis, price prediction and reasoning \cite{Li.28Sep2023}. LLMs come with a significant financial burden, being notably expensive to develop, train, and maintain. This cost factor raises practical challenges and limits accessibility for broader usage in various financial applications. Training costs for LLMs are a significant consideration. As of July, 2024, based on the number of GPU hours consumed and prices for AWS GPU usage, the estimated training costs of LLMs approximately are: FinGPT (finance domain specific model, fine-tuned on finance data): \$0.002 million, BloombergGPT: \$2.67 million, LLaMA2-7B: \$4.23 million\footnote{\url{https://github.com/AI4Finance-Foundation/FinGPT}}. 
+
+Unlike traditional models, the RAG system offers a distinct edge by eliminating the need for frequent model retraining when new SEC filings become available. This characteristic saves valuable time and alleviates the resource-intensive process of retraining large language models, ensuring that the system remains up-to-date and adaptive without incurring the associated costs.
+
+The proposed RAG system for interpreting and comprehending financial annual reports is tailored to serve the diverse needs of users within the finance sector. These users may include:
+\begin{enumerate}
+\item Private investors looking to analyze a company's financial reports before making investment decisions or tracking the performance of companies they already have stakes in.
+\item Professional financial experts who can leverage the system to automate the extraction of relevant information, thereby saving time and enabling them to focus on companies that previously fell outside their scope due to time constraints.
+\item SEC employees, who by law must review each company's report once every three years. The system will allow employees to save time, increase the frequency of report checks and improve quality
+\end{enumerate}
+
+This thesis refrains from creating a model for predictions, such as fraud detection and price predictions, which are already popular tasks. Instead, it focuses on the hypothesis that predictions should still be made by individuals.

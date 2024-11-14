@@ -1,31 +1,14 @@
 # thesis
 Reading and Understanding Annual Reports Using Large Language Models LLM and Retrieval-Augmented Generation.
 
+The primary research questions:
+- How can open-source utilities (libraries and models) be effectively combined with information retrieval to enhance the question-answering and understanding of financial reports?
+- What are the results of the RAG pipeline with using open-source utilities on real-life finance domain specific questions?
 
-### Master's Thesis Plan
-- Introduction
-  + Overview 
-  + The goal
-- Literature Review
-- Theoretical Foundation
-  + Embeddings
-  + Transformers
-  + Vector Database
-  + RAG
-- Experiments and Design
-  + Dataset
-  + Questions
-  + Experiments Setup
-  + Database Deployment
-  + Initial Architecture Experiments
-  + Retrieval Experiments
-    ++ Distance Function
-    ++ Re-Ranker
-  + RAG Experiments
-    ++ Experiments Methodology
-    ++ Evaluation and Results
-- Conclusion
-- Discussiom
+Methodology:
+- A comprehensive review of existing research and theoretical foundation on embeddings, LLMs, vectore storage, RAG systems, and their applications. 
+- Using open-source LLMs and frameworks to develop a RAG system that can process and analyze financial reports. The system will be designed to run locally (without using any API calls), ensuring cost-effectiveness.
+- Conducting experiments to assess the quality of the system's responses to real financial queries. This includes testing the system on questions of varying complexity and specificity, as well as manual evaluation of its accuracy.
 
 
 ### experiments board
@@ -37,26 +20,18 @@ Reading and Understanding Annual Reports Using Large Language Models LLM and Ret
 
 ### questions
 * prepared list of [35 questions](questions/questions_ver2.txt) that are most commonly used in analyzing corporate reports. These questions will be used to test the system
+* 150 questions from [FINANCEBENCH](https://arxiv.org/pdf/2311.11944.pdf)
 
 ### models / frameworks / databases
-1. [TheBloke/Llama-2-7B-Chat-GPTQ](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GPTQ)
-2. [GPTQ paper](https://arxiv.org/pdf/2210.17323)
-3. [ChromaDB](https://github.com/chroma-core/chroma)
-4. [LangChain Retrieval](https://python.langchain.com/docs/modules/data_connection/)
-5. [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
-6. [Embeddings leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
-7. [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
-8. [bartowski/Meta-Llama-3-8B-Instruct-GGUF/Meta-Llama-3-8B-Instruct-Q5_K_M.gguf](https://huggingface.co/bartowski/Meta-Llama-3-8B-Instruct-GGUF)
-9. [FlagEmbedding Reranker](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_reranker)
+1. [microsoft/Phi-3-mini-4k-instruct](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
+2. [ChromaDB](https://github.com/chroma-core/chroma)
+3. [LangChain](https://python.langchain.com/docs/introduction/)
+4. [BAAI/bge-small-en-v1.5](https://huggingface.co/BAAI/bge-small-en-v1.5)
+5. [FlashRank](https://github.com/PrithivirajDamodaran/FlashRank)
+6. [FlagEmbedding Reranker](https://github.com/FlagOpen/FlagEmbedding/tree/master/FlagEmbedding/llm_reranker)
 
 ### evaluation
-1. Human evaluation
-2. [Ragas](https://docs.ragas.io/en/latest/index.html)
-3. [An Overview on RAG Evaluation](https://weaviate.io/blog/rag-evaluation)
-4. [ARES: An Automated Evaluation Framework for Retrieval-Augmented Generation Systems](https://arxiv.org/pdf/2311.09476.pdf)
-5. [Evaluating RAG: A journey through metrics](https://www.elastic.co/search-labs/blog/articles/evaluating-rag-metrics)
-6. [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
-7. PatronusAI Enterprise Scenarios [leaderboard](https://huggingface.co/spaces/PatronusAI/enterprise_scenarios_leaderboard)
+1. Manual evaluation
 
 
 ### additional literature
